@@ -1,0 +1,700 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202303 will be lost/reset.
+# Last config file used to build this data file was /home/golhisarim/tmp/awstats/ssl/awstats.golhisarim.com.tr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2705                
+POS_VISITOR 19844               
+POS_DAY 23426               
+POS_DOMAIN 3577                
+POS_LOGIN 3983                
+POS_ROBOT 4138                
+POS_WORMS 4520                
+POS_EMAILSENDER 4651                
+POS_EMAILRECEIVER 4794                
+POS_SESSION 24109               
+POS_SIDER 24320               
+POS_FILETYPES 4929                
+POS_DOWNLOADS 5201                
+POS_OS 5378                
+POS_BROWSER 5701                
+POS_SCREENSIZE 6874                
+POS_UNKNOWNREFERER 6948                
+POS_UNKNOWNREFERERBROWSER 7572                
+POS_ORIGIN 7977                
+POS_SEREFERRALS 8121                
+POS_PAGEREFS 8265                
+POS_SEARCHWORDS 8480                
+POS_KEYWORDS 8632                
+POS_MISC 2367                
+POS_ERRORS 8691                
+POS_CLUSTER 3839                
+POS_SIDER_404 8820                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230401000106 582 151990 14704604564467
+FirstTime 20230308201748
+LastTime 20230331235915
+LastUpdate 20230401030834 582 0 581 0 0
+TotalVisits 184                 
+TotalUnique 90                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 91                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 402 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 155 1335 263779189 51 108 106647
+1 171 858 103921488 13 102 114609
+2 157 1050 137234837 7 45 52292
+3 170 991 151617745 29 76 73133
+4 521 3337 492878544 9 83 107763
+5 372 1396 72503942 6 34 33825
+6 282 2292 456636253 4 7 6190
+7 77 665 172205123 23 38 27262
+8 20 50 1055335 11 21 29372
+9 131 1110 143546114 3 6 59579
+10 91 896 115494410 2 21 24760
+11 43 52 103739 8 102 118760
+12 11 29 432567 5 9 10279
+13 2 3 58760 5 7 54798
+14 1 2 46345 7 15 4440
+15 6 26 15297044 0 3 1238
+16 163 882 137481771 2 7 4864
+17 69 415 59856204 9 37 42004
+18 230 1496 431719468 44 273 287504
+19 310 2025 478108883 62 213 227112
+20 248 2361 182995232 27 125 138558
+21 71 346 9257537 13 67 103480
+22 203 1376 144511901 74 199 341011
+23 160 654 138332681 16 318 371706
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+tr 3571 23518 2754763730
+us 51 65 218573
+se 8 10 107772
+cn 7 18 282748
+gb 6 6 14244
+ca 4 13 87975
+ua 4 4 5650
+jp 3 3 1405
+eu 3 3 6156
+fr 2 2 8790
+za 2 2 4450
+it 1 1 3858
+ro 1 1 2225
+be 1 1 1307
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+no_user_agent 6 234457 20230326090852 0
+Go\-http\-client/ 5 8435 20230325084907 0
+curl 3 11574 20230309124325 0
+Apache\-HttpClient/ 2 5250 20230310094821 0
+Discordbot/ 1 18169 20230328042643 0
+java 1 617 20230308214241 0
+feed 1 2225 20230314080634 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+woff 747 118006804 0 0
+js 3664 26767685 0 0
+html 2908 3881642 0 0
+mp4 189 1139593421 0 0
+svg 950 1239943 0 0
+jpg 4740 429941375 0 0
+css 3241 20648920 0 0
+gif 4 6908 0 0
+png 7195 1010194948 0 0
+php 9 334 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/images/za.mp4 155 137 298386540
+/video/intro.mp4 0 220 841206881
+/audio/AirReview-Landmarks-02-ChasingCorporate.mp3 0 6 5226903
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+win10 23263 3366
+win8 1 1
+ios_iphone 12 8
+androidmarshmallow 17 13
+winnt 9 5
+macosx15 2 2
+Unknown 15 7
+macosx12 1 1
+android10 3 3
+winunknown 1 0
+androidgingerbread 1 1
+androidoreo 2 2
+androidfroyo 3 3
+linux 69 57
+macosx 15 4
+android 594 189
+linuxubuntu 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 58
+chrome54.0.301 1 0
+chrome68.0.2831 1 0
+safari16.3 3 3
+chrome73.0.2511 1 1
+chrome86.0.4240.111 1 1
+chrome32.0.1667.0 1 1
+chrome80.0.8 1 0
+chrome103.0.0.0 161 46
+safari16.2 1 1
+chrome79.0.976 1 0
+chrome64.0.2792 1 0
+chrome103.0.539 1 1
+chrome83.0.4103.97 18 18
+chrome84.0.657 1 1
+safari16.1 2 2
+chrome105.0.0.0 10 8
+safari 5 1
+chrome95.0.4638.69 1 0
+chrome103.0.1039 1 1
+chrome53.0.1192 1 0
+chrome111.0.0.0 23349 3321
+chrome66.0.2765 1 0
+chrome66.0.3359.181 9 9
+chrome67.0.274 1 1
+chrome37.0.2049.0 1 1
+chrome110.0.0.0 236 190
+chrome103.0.2033 1 0
+chrome89.0.4389.116 1 1
+chrome100.0.997 1 1
+opera96.0.0.0 133 16
+chrome84.0.596 1 0
+firefox104.0 6 6
+netscape5.0 1 1
+firefox108.0 2 2
+chrome76.0.1103 1 0
+chrome105.0.962 1 0
+safari11.0.3 1 1
+chrome82.0.1857 1 0
+chrome51.0.1912 1 0
+chrome105.0.5195.136 3 3
+chrome66.0.2817 1 0
+chrome103.0.117 1 0
+safari10.0 1 1
+chrome71.0.1412 1 0
+chrome58.0.2464 1 0
+chrome98.0.881 1 0
+Unknown 2 2
+chrome107.0.1049 1 1
+chrome103.0.5060.114 3 3
+chrome87.0.4280.88 5 4
+chrome97.0.438 1 0
+chrome75.0.910 1 0
+arora 1 0
+firefox111.0 6 3
+firefox58.0 3 3
+android 4 4
+mozilla 12 4
+chrome65.0.304 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0 20230309040729
+python-requests/2.28.2 20230309113259
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230329170854
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230319123425
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230317032056
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230317032056
+python-requests/2.28.2 20230309113259
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1310 1344
+From1 0 0
+From2 0 0
+From3 2 36
+From4 2352 22630
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://localhost:3000 2 2
+https://cpanel7.hostlab.net.tr:2083 0 34
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 1195 1469506
+401 20 887
+403 76 93404
+206 3 37656
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 174
+/deu/js/jquery-2.2.4.min.js 5 https://www.golhisarim.com.tr/deu/about.html
+/images/B.jpg 1 https://golhisarim.com.tr/
+/tr.html 1 https://www.golhisarim.com.tr/
+/deu/js/pw_strenght.js 2 https://www.golhisarim.com.tr/deu/login-register.html
+/eng/index.js 19 https://www.golhisarim.com.tr/eng/engfirmaekle.html
+/deu/florence-must-see-grid.html 1 https://www.golhisarim.com.tr/deu/index.html
+/deu/css/menu.css 12 https://www.golhisarim.com.tr/deu/about.html
+/css/bootstrap.min.css.map 106 -
+/deu/florence-events-grid.html 1 https://www.golhisarim.com.tr/deu/index.html
+/deu/css/style.css 12 https://www.golhisarim.com.tr/deu/about.html
+/www.golhisarim.com.tr/home/golhisarim/public_html/style.css 10 https://golhisarim.com.tr/
+/deu/img/logo_2.png 23 https://www.golhisarim.com.tr/deu/about.html
+/idex.css 1 https://golhisarim.com.tr/sektorler.html
+/deu/images/logo.png 14 https://golhisarim.com.tr/deu/deu.html
+/audio/AirReview-Landmarks-02-ChasingCorporate.mp3 6 https://golhisarim.com.tr/florence-audio-guides.html
+/deu/about.html 2 https://www.golhisarim.com.tr/deu/index.html
+/coming_soon/img/logo@2x.png 2 https://golhisarim.com.tr/coming_soon/index.html
+/deu/florence-bars-map-listing.html 1 https://www.golhisarim.com.tr/deu/index.html
+/deu/florence-restaurants-grid.html 1 https://www.golhisarim.com.tr/deu/index.html
+/wwww.golhisarim.com.tr 1 https://golhisarim.com.tr/
+/eng/deu/login-register.html 2 https://golhisarim.com.tr/eng/login-register.html
+/eng/.../login-register.html 1 https://golhisarim.com.tr/eng/login-register.html
+/deu/images/B.jpg 12 https://golhisarim.com.tr/deu/deu.html
+/images/D.jpg 1 https://golhisarim.com.tr/
+/subscribe.html 1 https://www.golhisarim.com.tr/
+/deu/images/haber6.PNG 12 https://golhisarim.com.tr/deu/deu.html
+/fr.html 1 https://www.golhisarim.com.tr/deneme.html
+/eng/css/bootstrap.min.css 3 https://golhisarim.com.tr/eng/about.html
+/full_screen_map.html 6 https://www.golhisarim.com.tr/
+/deu/img/logo_2_2x.png 5 https://golhisarim.com.tr/deu/index.html
+/eng/js/common_scripts_min.js 3 https://golhisarim.com.tr/eng/about.html
+/deu/deu.html.html 2 https://golhisarim.com.tr/
+/deu/css/bootstrap.min.css 12 https://www.golhisarim.com.tr/deu/about.html
+/resim/logo.png 3 https://golhisarim.com.tr/
+/eng/eng.html 12 https://golhisarim.com.tr/deu/deu.html
+/kayityap.php 2 https://golhisarim.com.tr/giris.html
+/eng.html 10 https://golhisarim.com.tr/index.html
+/deu/eng/index.html 3 https://www.golhisarim.com.tr/deu/index.html
+/eng/video/intro.mp4 3 https://golhisarim.com.tr/eng/index.html
+/deu/js/common_scripts_min.js 5 https://www.golhisarim.com.tr/deu/about.html
+/deu/kayit.html 1 https://golhisarim.com.tr/deu/deu.html
+/subscribe-working.html 1 https://www.golhisarim.com.tr/
+/deu/img/bg_login.png 2 https://www.golhisarim.com.tr/deu/login-register.html
+/deu/js/map_home.js 2 https://www.golhisarim.com.tr/deu/index.html
+/deu/images/C.png 12 https://golhisarim.com.tr/deu/deu.html
+/eng/index.css 19 https://www.golhisarim.com.tr/eng/engfirmaekle.html
+/icon_pack_1.html 1 https://www.golhisarim.com.tr/
+/submit-form.php 3 https://golhisarim.com.tr/login-register.html
+/images/firma.png 49 https://golhisarim.com.tr/index.html
+/eng/eng/login-register.html 2 https://golhisarim.com.tr/eng/login-register.html
+/www.golhisarim.com.tr/home/golhisarim/public_html/logo.PNG 3 https://golhisarim.com.tr/
+/project-name/stylesheets/index.css 1 https://golhisarim.com.tr/sektorler.html
+/deu/img/logo.png 1 https://www.golhisarim.com.tr/deu/about.html
+/uyeol.php 2 https://golhisarim.com.tr/login-register.html
+/images/resim.jpg 6 https://golhisarim.com.tr/deu/deu.html
+/deu/img/video_fix.png 14 https://www.golhisarim.com.tr/deu/index.html
+/$%7BselectedValue%7D.html 6 https://www.golhisarim.com.tr/deneme.html
+/gallery-3-columns.html 2 https://www.golhisarim.com.tr/
+/eng/img/testimonial_1.jpg 2 https://golhisarim.com.tr/eng/about.html
+/deu/img/testimonial_1.jpg 1 https://www.golhisarim.com.tr/deu/about.html
+/newfirma.html 2 https://golhisarim.com.tr/index.html
+/deu/deu.html 12 https://golhisarim.com.tr/index.html
+/eng/img/sub_header_contact.jpg 1 https://golhisarim.com.tr/eng/contacts.html
+/eng/assets/validate.js 3 https://golhisarim.com.tr/eng/about.html
+/deu/index.html.html 1 https://golhisarim.com.tr/deu/index.html
+/eng/css/custom.css 3 https://golhisarim.com.tr/eng/about.html
+/logo.png 4 https://golhisarim.com.tr/
+/eng/index.html 10 https://www.golhisarim.com.tr/eng/engfirmaekle.html
+/florence-must-see-map-listing.html 9 https://www.golhisarim.com.tr/
+/www.golhisarim.com.tr/public_html/logo.PNG 1 https://golhisarim.com.tr/
+/deu/deu/deu.html 6 https://golhisarim.com.tr/deu/deu.html
+/deu/img/logo_login.png 2 https://www.golhisarim.com.tr/deu/login-register.html
+/eng/img/mobile.png 3 https://golhisarim.com.tr/eng/about.html
+/pma/index.php 1 -
+/www.golhisarim.com.tr/public_html/logo.png 6 https://golhisarim.com.tr/
+/deu/indexx.html 1 https://www.golhisarim.com.tr/index.html
+/deu/images/D.jpg 12 https://golhisarim.com.tr/deu/deu.html
+/eng/js/functions.js 3 https://golhisarim.com.tr/eng/about.html
+/deu/video/intro.ogv 12 https://www.golhisarim.com.tr/deu/index.html
+/eng/giris.html 4 https://www.golhisarim.com.tr/eng/eng.html
+/php/thinkphp/aaaffff123.php 1 -
+/deu/eng/eng.html 1 https://golhisarim.com.tr/deu/index.html
+/icon_pack_2.html 1 https://www.golhisarim.com.tr/
+/index.html.html 1 https://golhisarim.com.tr/
+/deu/css/animate.min.css 12 https://www.golhisarim.com.tr/deu/about.html
+/deu/css/icon_fonts/css/all_icons.min.css 12 https://www.golhisarim.com.tr/deu/about.html
+/deu/images/E.jpg 12 https://golhisarim.com.tr/deu/deu.html
+/deu/img/team.jpg 1 https://www.golhisarim.com.tr/deu/about.html
+/deu/images/haber3.PNG 12 https://golhisarim.com.tr/deu/deu.html
+/eng/css/animate.min.css 3 https://golhisarim.com.tr/eng/about.html
+/deu/contacts.html 3 https://golhisarim.com.tr/eng/contacts.html
+/icon_pack_3.html 1 https://www.golhisarim.com.tr/
+/robots.txt 9 -
+/coming_soon/img/slide_3@2x.jpg 2 https://golhisarim.com.tr/coming_soon/index.html
+/static/admin/javascript/hetong.js 3 -
+/Public/home/js/check.js 3 -
+/images/zsa.mp4 1 https://golhisarim.com.tr/
+/eng/js/mapmarker_func.jquery.js 1 https://golhisarim.com.tr/eng/contacts.html
+/eng/js/mapmarker.jquery.js 1 https://golhisarim.com.tr/eng/contacts.html
+/eng/img/team.jpg 2 https://golhisarim.com.tr/eng/about.html
+/shortcodes.html 2 https://www.golhisarim.com.tr/
+/deu/js/infobox.js 2 https://www.golhisarim.com.tr/deu/index.html
+/home/golhisarim/public_html/style.css 3 https://golhisarim.com.tr/
+/eng/deu/deu.html 2 https://golhisarim.com.tr/eng/eng.html
+/deu/images/haber4.PNG 12 https://golhisarim.com.tr/deu/deu.html
+/deu/img/mobile.png 1 https://www.golhisarim.com.tr/deu/about.html
+/eng/img/logo_login.png 7 https://golhisarim.com.tr/eng/login-register.html
+/index_sso.php 1 -
+/eng/video/intro.ogv 3 https://golhisarim.com.tr/eng/index.html
+/deu/giris.html 1 https://golhisarim.com.tr/deu/deu.html
+/.env 1 -
+/deu/js/functions.js 5 https://www.golhisarim.com.tr/deu/about.html
+/florence-audio-guides.html 3 https://golhisarim.com.tr/florence-must-see-detail.html
+/iletisim.html 1 https://golhisarim.com.tr/
+/aaa.html 2 https://www.golhisarim.com.tr/deneme.html
+/deu/login-register.html 2 https://www.golhisarim.com.tr/deu/index.html
+/coming_soon/img/slide_1@2x.jpg 2 https://golhisarim.com.tr/coming_soon/index.html
+/style.css 169 https://golhisarim.com.tr/
+/deu/deu/index.html 4 https://www.golhisarim.com.tr/deu/index.html
+/images/deufirma.png 18 https://www.golhisarim.com.tr/deu/deu.html
+/login-registered.html 1 https://golhisarim.com.tr/contacts.html
+/logo.PNG 9 https://golhisarim.com.tr/
+/deu/css/custom.css 12 https://www.golhisarim.com.tr/deu/about.html
+/deu/index.html 3 https://golhisarim.com.tr/deu/deu.html
+/deu/florence-shops-map-listing.html 1 https://www.golhisarim.com.tr/deu/index.html
+/deu/assets/validate.js 5 https://www.golhisarim.com.tr/deu/about.html
+/coming_soon/img/slide_2@2x.jpg 2 https://golhisarim.com.tr/coming_soon/index.html
+/.html 3 https://www.golhisarim.com.tr/
+/deu/index.css 1 https://golhisarim.com.tr/deu/deu.html
+/deu/images/haber2.PNG 12 https://golhisarim.com.tr/deu/deu.html
+/eng/img/bg_login.png 2 https://golhisarim.com.tr/eng/login-register.html
+/sitemap.xml 9 -
+/deu/images/haber5.PNG 12 https://golhisarim.com.tr/deu/deu.html
+/eng/img/video_fix.png 1 https://golhisarim.com.tr/eng/index.html
+/eng/img/logo.png 2 https://golhisarim.com.tr/eng/about.html
+/wishlist.html 9 https://golhisarim.com.tr/faq.html
+/deu/eng.html 2 https://golhisarim.com.tr/deu/deu.html
+/PhpMyAdmin/index.php 1 -
+/sektorler.html/index.css 3 https://golhisarim.com.tr/sektorler.html
+/images/ototamir.png 1 https://golhisarim.com.tr/sektorler.html
+/eng/kayit.html 4 https://www.golhisarim.com.tr/eng/eng.html
+/deu/video/intro.mp4 12 https://www.golhisarim.com.tr/deu/index.html
+/images/C.png 1 https://golhisarim.com.tr/
+/de.html 1 https://www.golhisarim.com.tr/deneme.html
+/florence-must-see-list.html 1 https://www.golhisarim.com.tr/
+/deu/js/modernizr.js 2 https://www.golhisarim.com.tr/deu/index.html
+/deu/faq.html 6 https://www.golhisarim.com.tr/deu/index.html
+/deu/js/video_header.js 2 https://www.golhisarim.com.tr/deu/index.html
+/eng/img/logo_login_2x.png 7 https://golhisarim.com.tr/eng/login-register.html
+/images/za.jpeg 40 https://golhisarim.com.tr/
+/deu/images/firma.png 12 https://golhisarim.com.tr/deu/deu.html
+/eng/img/logo_2_2x.png 4 https://golhisarim.com.tr/eng/index.html
+/href= 5 https://golhisarim.com.tr/sektorler.html
+/florence-event-detail.html 13 https://www.golhisarim.com.tr/banka-finans.html
+/deu/images/haber1.PNG 12 https://golhisarim.com.tr/deu/deu.html
+/images/E.jpg 1 https://golhisarim.com.tr/
+/gallery-4-columns.html 1 https://www.golhisarim.com.tr/
+/ger.html 1 https://golhisarim.com.tr/index.html
+/eng/js/jquery-2.2.4.min.js 3 https://golhisarim.com.tr/eng/about.html
+/phpmyadmin/index.php 1 -
+/deu/images/A.jpg 12 https://golhisarim.com.tr/deu/deu.html
+/images/A.jpg 1 https://golhisarim.com.tr/
+/image/ototamir.PNG 11 https://golhisarim.com.tr/sektorler.html
+/eng/images/logo.png 49 https://www.golhisarim.com.tr/eng/engfirmaekle.html
+/eng/img/logo_2.png 7 https://golhisarim.com.tr/eng/about.html
+/florence-events-grid.html 2 https://www.golhisarim.com.tr/banka-finans.html
+/en.html 3 https://www.golhisarim.com.tr/
+/eng/css/style.css 3 https://golhisarim.com.tr/eng/about.html
+/coming_soon/index.html 2 https://www.golhisarim.com.tr/
+/images 1 http://localhost:3000/
+/eng/css/icon_fonts/css/all_icons.min.css 3 https://golhisarim.com.tr/eng/about.html
+/eng/css/menu.css 3 https://golhisarim.com.tr/eng/about.html
+/images/za.mp4 8 https://golhisarim.com.tr/index.css
+/deu/index.js 1 https://golhisarim.com.tr/deu/deu.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 91
+176.240.103.81 1664 11315 1559512232 20230331235915
+176.42.37.239 919 5025 614667025 20230322032854
+176.232.33.109 640 5497 417523031 20230328192535
+195.155.188.36 308 1926 141809611 20230331222920
+5.177.136.243 8 12 1769533 20230320090905
+66.70.190.19 6 9 47121 20230318054231
+85.96.214.24 5 46 14734042 20230328042904
+95.216.161.91 4 4 5650 20230317110741
+5.177.129.141 4 9 1395604 20230318181458
+176.42.39.29 4 7 2056 20230324073218
+51.159.103.13 4 4 9794 20230316113107
+188.119.36.219 3 6 47121 20230318002619
+89.252.132.28 3 3 8308 20230311161543
+5.47.249.58 3 6 2258649 20230310195016
+151.135.164.20 3 8 116598 20230317052533
+3.131.98.176 3 5 4150 20230318060106
+151.135.137.255 3 9 776286 20230319054935
+216.131.88.4 2 2 4450 20230311161542
+164.90.241.135 2 2 4450 20230311161542
+193.235.141.147 2 2 4809 20230328222626
+106.75.79.133 2 5 49525 20230323170420
+51.75.141.254 2 2 4450 20230311161543
+31.223.84.212 2 3 47566 20230316230032
+197.242.159.110 2 2 4450 20230311161544
+35.90.8.156 1 1 802 20230317014138
+193.235.141.134 1 2 46366 20230320195708
+54.191.154.113 1 1 1115 20230311011706
+193.235.141.21 1 1 514 20230315120756
+172.245.58.253 1 1 967 20230312022629
+34.221.1.170 1 1 3810 20230331012629
+34.83.195.11 1 1 12415 20230316131222
+198.235.24.49 1 1 1992 20230317032056
+128.90.169.198 1 1 2225 20230314080632
+167.94.138.49 1 1 1392 20230309151224
+35.88.30.112 1 1 967 20230313014734
+54.187.229.146 1 1 802 20230317013509
+35.163.86.129 1 1 1392 20230309122043
+135.181.86.190 1 1 1392 20230309113259
+51.255.62.11 1 1 3985 20230319024837
+34.221.62.26 1 1 1392 20230309122121
+34.221.19.230 1 1 967 20230313015421
+69.4.89.106 1 1 1037 20230314234513
+51.254.49.107 1 1 4805 20230319083658
+54.185.48.109 1 1 3810 20230331012640
+93.119.227.19 1 1 1037 20230316045437
+52.39.25.210 1 1 967 20230312011545
+133.242.174.119 1 1 396 20230308221651
+84.17.42.5 1 1 3858 20230309040728
+193.235.141.157 1 1 514 20230323110815
+35.92.94.87 1 1 967 20230313015322
+87.236.176.118 1 1 1307 20230319123425
+34.222.81.57 1 1 514 20230316010346
+176.220.229.35 1 5 91925 20230317211247
+93.119.227.91 1 1 1261 20230308210304
+5.177.133.121 1 4 4143 20230322052608
+54.148.26.68 1 1 967 20230313021324
+52.13.65.221 1 1 3487 20230328013954
+18.237.56.57 1 1 967 20230313014941
+133.242.140.127 1 1 396 20230308221643
+106.75.81.94 1 4 91008 20230318032257
+18.246.40.110 1 1 967 20230313014923
+35.87.208.41 1 1 3810 20230331012740
+138.199.18.65 1 1 3858 20230309040728
+223.111.175.4 1 3 3180 20230323194819
+104.255.169.118 1 1 3858 20230309040729
+39.110.218.101 1 1 613 20230308201748
+167.248.133.127 1 5 10531 20230329170852
+193.235.141.150 1 1 5975 20230326035632
+54.212.214.126 1 1 3810 20230331014949
+35.85.53.43 1 1 802 20230317014214
+35.165.126.43 1 1 967 20230314013706
+47.88.87.97 1 1 1392 20230309082348
+84.247.50.238 1 1 2225 20230314080632
+35.93.17.107 1 1 3487 20230328013939
+106.75.81.66 1 2 46345 20230309140757
+34.145.117.124 1 1 12400 20230316125945
+35.160.139.243 1 1 1299 20230320012045
+162.142.125.223 1 5 10531 20230328195436
+35.90.8.111 1 1 5975 20230325013119
+54.213.163.190 1 1 967 20230313015453
+165.154.119.11 1 10 83199 20230330111840
+18.237.84.72 1 1 514 20230323010611
+68.183.53.77 0 1 44953 
+106.75.126.29 1 2 46345 20230309125833
+106.75.84.209 1 2 46345 20230309083831
+193.235.141.17 1 2 45784 20230318040746
+54.189.112.233 1 1 3810 20230331012706
+193.235.141.152 1 1 3810 20230331164843
+47.88.101.3 1 1 1392 20230309082348
+47.251.15.21 1 1 1392 20230309082342
+34.215.218.87 1 1 5975 20230326015548
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20230308 131 165 24959119 5
+20230309 32 42 4745427 20
+20230310 5 11 4517298 3
+20230311 55 61 4577480 7
+20230312 5 5 4519 5
+20230313 7 7 6769 7
+20230314 13 20 3729717 10
+20230315 1 1 514 1
+20230316 65 75 272462 12
+20230317 430 893 13905749 21
+20230318 52 256 30213776 12
+20230319 582 3461 381775692 8
+20230320 447 4664 964568199 10
+20230321 453 3347 396922782 9
+20230322 3 6 5171 3
+20230323 6 13 12048 6
+20230324 22 223 93386981 4
+20230325 13 187 23743241 3
+20230326 126 1850 112732582 4
+20230327 36 282 36349182 3
+20230328 630 4417 775783734 11
+20230329 8 27 129762 3
+20230330 447 3148 744435168 4
+20230331 95 486 92297740 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 7
+2mn-5mn 2
+0s-30s 122
+30mn-1h 10
+30s-2mn 11
+1h+ 18
+5mn-15mn 14
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 65
+/ 1577 2189607 178 152
+/css/icon_fonts/font/ElegantIcons.woff 335 21327440 0 2
+/kayit.html 317 259289 0 1
+/sektorler.html 294 109728 0 7
+/css/icon_fonts/font/fontello.woff 283 90723008 1 3
+/css/icon_fonts/font/icon_set_1.woff 127 5315204 0 2
+/giris.html 117 78036 0 2
+/deu/deu.html 81 101979 1 2
+/login-register.html 73 98467 2 2
+/eng/eng.html 51 54709 0 0
+/deu/ 50 110148 0 1
+/faq.html 47 167187 0 0
+/contacts.html 36 95133 0 1
+/eng/engfirmaekle.html 27 3754 1 1
+/newfirma.html 20 17271 0 0
+/eng/ 18 33476 0 0
+/eng/login-register.html 18 13438 0 0
+/iletisim.html 16 25067 0 0
+/deu/deuiletisim.html 16 30979 0 1
+/banka-finans.html 16 56782 0 1
+/eng/engiletisim.html 14 15896 0 0
+/deneme.html 13 2977 0 0
+/eng/contacts.html 10 22157 0 0
+/about.html 10 36538 0 0
+/assets/contact.php 9 334 0 0
+/deu/login-register.html 1 1348 0 0
+/gallery-4-columns.html 1 3061 0 0
+/eng/about.html 3 10381 0 0
+/eng/faq.html 4 9971 0 0
+/florence-shops-grid.html 1 4635 0 0
+/full_screen_map.html 2 3742 0 0
+/psd_elements/ 2 2486 0 1
+/florence-bars-map-listing.html 4 15872 0 0
+/icon_pack_2.html 1 4054 0 0
+/florence-transports.html 4 13588 1 1
+/florence-restaurants-grid.html 1 4653 0 0
+/florence-hotels-map-listing.html 3 12021 0 0
+/florence-bars-list.html 1 4577 0 0
+/coming_soon/fontello/font/fontello.woff 2 641152 0 0
+/coming_soon/ 2 2272 0 0
+/florence-events-grid.html 3 14112 0 0
+/subscribe-working.html 3 10374 0 1
+/florence-shops-map-listing.html 8 31744 0 0
+/wishlist.html 4 18220 0 0
+/icon_pack_1.html 1 28226 0 0
+/icon_pack_3.html 1 7831 0 0
+/florence-bar-detail.html 1 5530 0 0
+/shortcodes.html 1 5587 0 0
+/florence-must-see-grid.html 3 14064 0 0
+/florence-must-see-list.html 2 9184 0 0
+/florence-hotel-detail.html 1 5748 0 0
+/florence-event-list.html 1 4600 0 0
+/gallery-3-columns.html 2 6092 0 0
+/deu/about.html 1 3754 0 0
+/florence-bars-grid.html 2 9282 0 1
+/index_2.html 1 5768 0 0
+/florence-hotels-grid.html 3 14019 0 0
+/florence-must-see-detail.html 2 11380 0 0
+/florence-shop-detail.html 1 5398 0 0
+/florence-audio-guides.html 1 3399 0 0
+/florence-must-see-map-listing.html 2 8044 0 0
+/subscribe.html 1 3722 0 0
+/banka-finans-detail.html 8 21147 0 2
+/florence-event-map-listing.html 2 8038 0 0
+/florence-event-detail.html 2 11100 0 0
+END_SIDER

@@ -1,0 +1,13 @@
+[03-Apr-2023 07:26:59 Europe/Istanbul] PHP Warning:  require(assets/autoload.php): failed to open stream: No such file or directory in /home/golhisarim/public_html/assets/send-email.php on line 12
+[03-Apr-2023 07:26:59 Europe/Istanbul] PHP Warning:  require(assets/autoload.php): failed to open stream: No such file or directory in /home/golhisarim/public_html/assets/send-email.php on line 12
+[03-Apr-2023 07:26:59 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required 'assets/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/golhisarim/public_html/assets/send-email.php on line 12
+[03-Apr-2023 07:28:19 Europe/Istanbul] PHP Warning:  require(assets/autoload.php): failed to open stream: No such file or directory in /home/golhisarim/public_html/assets/send-email.php on line 12
+[03-Apr-2023 07:28:19 Europe/Istanbul] PHP Warning:  require(assets/autoload.php): failed to open stream: No such file or directory in /home/golhisarim/public_html/assets/send-email.php on line 12
+[03-Apr-2023 07:28:19 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required 'assets/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/golhisarim/public_html/assets/send-email.php on line 12
+[03-Apr-2023 07:28:32 Europe/Istanbul] PHP Warning:  require(assets/autoload.php): failed to open stream: No such file or directory in /home/golhisarim/public_html/assets/send-email.php on line 12
+[03-Apr-2023 07:28:32 Europe/Istanbul] PHP Warning:  require(assets/autoload.php): failed to open stream: No such file or directory in /home/golhisarim/public_html/assets/send-email.php on line 12
+[03-Apr-2023 07:28:32 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required 'assets/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/golhisarim/public_html/assets/send-email.php on line 12
+[03-Apr-2023 07:29:31 Europe/Istanbul] PHP Warning:  require(../assets/autoload.php): failed to open stream: No such file or directory in /home/golhisarim/public_html/assets/send-email.php on line 12
+[03-Apr-2023 07:29:31 Europe/Istanbul] PHP Warning:  require(../assets/autoload.php): failed to open stream: No such file or directory in /home/golhisarim/public_html/assets/send-email.php on line 12
+[03-Apr-2023 07:29:31 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required '../assets/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/golhisarim/public_html/assets/send-email.php on line 12
+[03-Apr-2023 07:31:10 Europe/Istanbul] PHP Fatal error:  Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/golhisarim/public_html/assets/send-email.php on line 15

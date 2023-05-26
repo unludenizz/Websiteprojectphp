@@ -1,0 +1,8 @@
+128.199.85.97:47764 - - [23/May/2023:16:21:55 +0300] "GET /wp-includes/wlwmanifest.xml HTTP/1.1" 404 1238 "-" "python-requests/2.27.1"
+128.199.85.97:48162 - - [23/May/2023:16:21:56 +0300] "GET /administrator/index.php HTTP/1.1" 404 1238 "-" "python-requests/2.27.1"
+128.199.85.97:48414 - - [23/May/2023:16:21:57 +0300] "GET /view-source: HTTP/1.1" 404 1238 "-" "python-requests/2.27.1"
+128.199.85.97:48638 - - [23/May/2023:16:21:57 +0300] "GET /misc/ajax.js HTTP/1.1" 404 1238 "-" "python-requests/2.27.1"
+185.27.99.130:38489 - - [23/May/2023:18:36:34 +0300] "GET /robots.txt HTTP/1.1" 404 1238 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Teams/1.5.00.17656 Chrome/85.0.4183.121 Electron/10.4.7 Safari/537.36"
+185.27.99.140:43207 - - [23/May/2023:18:36:34 +0300] "GET /ads.txt HTTP/1.1" 404 1238 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Teams/1.5.00.17656 Chrome/85.0.4183.121 Electron/10.4.7 Safari/537.36"
+185.27.99.116:43441 - - [23/May/2023:18:36:34 +0300] "GET /humans.txt HTTP/1.1" 404 1238 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Teams/1.5.00.17656 Chrome/85.0.4183.121 Electron/10.4.7 Safari/537.36"
+185.27.99.132:60515 - - [23/May/2023:18:36:34 +0300] "GET / HTTP/1.1" 200 3674 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Teams/1.5.00.17656 Chrome/85.0.4183.121 Electron/10.4.7 Safari/537.36"

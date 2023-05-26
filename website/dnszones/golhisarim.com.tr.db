@@ -1,0 +1,26 @@
+; cPanel first:100.0.12 (update_time):1683567851 Cpanel::ZoneFile::VERSION:1.3 hostname:cpanel7.hostlab.net.tr latest:108.0.14
+; Zone file for golhisarim.com.tr
+$TTL 14400
+golhisarim.com.tr.	86400	IN	SOA	ns17.hostlab.net.tr.	info.hostlab.com.	(
+						2023050801 ;Serial Number
+						3600 ;refresh
+						1800 ;retry
+						1209600 ;expire
+						86400	)
+golhisarim.com.tr.	86400	IN	NS	ns17.hostlab.net.tr.
+golhisarim.com.tr.	86400	IN	NS	ns18.hostlab.net.tr.
+golhisarim.com.tr.	14400	IN	A	45.158.14.34
+golhisarim.com.tr.	14400	IN	MX	0	golhisarim.com.tr.
+mail	14400	IN	CNAME	golhisarim.com.tr.
+www	14400	IN	CNAME	golhisarim.com.tr.
+ftp	14400	IN	A	45.158.14.34
+golhisarim.com.tr.	14400	IN	TXT	"v=spf1 +a +mx +ip4:45.158.14.34 ~all"
+webmail	14400	IN	A	45.158.14.34
+whm	14400	IN	A	45.158.14.34
+cpcalendars	14400	IN	A	45.158.14.34
+cpanel	14400	IN	A	45.158.14.34
+cpcontacts	14400	IN	A	45.158.14.34
+webdisk	14400	IN	A	45.158.14.34
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuSUxwGrSNjmhIGUIehIx3aYrkeetTOn0r4s3pIS2bMgRRuVf7epTqQbnCriwKZHGnHUFhHim2v20WZ9aQSX21EJwyk3qdcAqaVMB4uoqXMg8RKK68EDhxt49KGUqeTj9KcQ7UtGfQ8B9x9/x8GO9KOlG9tiQyBLAybyKMV94TeNQ4YG+t+BqiM6foVBPTk4YL" e8D3QxLG99u3a5udvIaIWb2PeGjqlmQfZXhfcsLdqi488Qy3NfR8aEBsMOfn/P15XUvNhZBwkSdKRhhDxru6Ly/tutx6q8EYyGagcV4SW+fsf+v6dp3lx4t8nTozSPpHolnfEtmCQJ61O/iAJgWawIDAQAB\;
+_cpanel-dcv-test-record	14400	IN	TXT	_cpanel-dcv-test-record=_fQyOGIIOCdTGFd4dInfaFflR3LcrnEiOOl7EqGv7D4r2Y3AYYdTOp90Fi25DHnA
+_acme-challenge	14400	IN	TXT	QklHli30v1XoOHgxCkVhvQXVhknmdMyNaraP1PqtFrk

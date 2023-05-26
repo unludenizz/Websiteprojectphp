@@ -1,0 +1,72 @@
+Return-Path: <>
+Delivered-To: iletisim@golhisarim.com.tr
+Received: from cpanel7.hostlab.net.tr
+	by cpanel7.hostlab.net.tr with LMTP
+	id eCaQF436MGTuMQAA4baKcw
+	(envelope-from <>)
+	for <iletisim@golhisarim.com.tr>; Sat, 08 Apr 2023 08:24:29 +0300
+Return-path: <>
+Envelope-to: iletisim@golhisarim.com.tr
+Delivery-date: Sat, 08 Apr 2023 08:24:29 +0300
+Received: from mailnull by cpanel7.hostlab.net.tr with local (Exim 4.96)
+	id 1pl13t-0003TQ-0s
+	for iletisim@golhisarim.com.tr;
+	Sat, 08 Apr 2023 08:24:29 +0300
+X-Failed-Recipients: hello@fawkesgame.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cpanel7.hostlab.net.tr>
+To: iletisim@golhisarim.com.tr
+References: <129d6eb3f98c9ec1b0b6394b515ffbd5@golhisarim.com.tr>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1680931469-eximdsn-1804289383
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pl13t-0003TQ-0s@cpanel7.hostlab.net.tr>
+Date: Sat, 08 Apr 2023 08:24:29 +0300
+X-From-Rewrite: unmodified, actual sender is mailnull
+
+--1680931469-eximdsn-1804289383
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@fawkesgame.com
+
+--1680931469-eximdsn-1804289383
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; cpanel7.hostlab.net.tr
+
+Action: failed
+Final-Recipient: rfc822;hello@fawkesgame.com
+Status: 5.0.0
+
+--1680931469-eximdsn-1804289383
+Content-type: message/rfc822
+
+Return-path: <iletisim@golhisarim.com.tr>
+Received: from [45.158.14.34] (port=1326 helo=golhisarim.com.tr)
+	by cpanel7.hostlab.net.tr with esmtpa (Exim 4.96)
+	(envelope-from <iletisim@golhisarim.com.tr>)
+	id 1pjCDL-000Am0-2o
+	for hello@fawkesgame.com;
+	Mon, 03 Apr 2023 07:54:42 +0300
+Date: Mon, 3 Apr 2023 07:54:42 +0300
+To: =?UTF-8?Q?Mail_g=C3=B6nderimi?= <hello@fawkesgame.com>
+From: iletisim@golhisarim.com.tr
+Reply-to: Reply to name <>
+Subject: =?UTF-8?Q?=C4=B0leti=C5=9Fim_Formu?=
+Message-ID: <129d6eb3f98c9ec1b0b6394b515ffbd5@golhisarim.com.tr>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.72]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+ Telefon Numarası: 
+
+
+
+--1680931469-eximdsn-1804289383--

@@ -1,0 +1,2 @@
+[20-Mar-2023 17:47:32 +0300]: <e7cafedc> [5 ERR] Database::get (SELECT "filename" FROM carddav_migrations) ERROR: [1] no such table: carddav_migrations 
+[21-Mar-2023 04:53:41 +0300]: <cd256104> [5 ERR] Database::get (SELECT "filename" FROM carddav_migrations) ERROR: [1] no such table: carddav_migrations 

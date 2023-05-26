@@ -1,0 +1,26 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/golhisarim.com.tr
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/golhisarim.com.tr-bytes_log
+documentroot: /home/golhisarim/public_html
+group: golhisarim
+hascgi: 1
+homedir: /home/golhisarim
+ip: 45.158.14.34
+owner: root
+phpopenbasedirprotect: 1
+phpversion: ea-php56
+port: 80
+scriptalias: 
+  - 
+    path: /home/golhisarim/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@golhisarim.com.tr
+serveralias: mail.golhisarim.com.tr www.golhisarim.com.tr
+servername: golhisarim.com.tr
+usecanonicalname: 'Off'
+user: golhisarim

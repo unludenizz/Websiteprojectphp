@@ -1,0 +1,484 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home/golhisarim/tmp/awstats/awstats.golhisarim.com.tr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2688                
+POS_VISITOR 10231               
+POS_DAY 13282               
+POS_DOMAIN 3392                
+POS_LOGIN 3698                
+POS_ROBOT 3853                
+POS_WORMS 4024                
+POS_EMAILSENDER 4155                
+POS_EMAILRECEIVER 4298                
+POS_SESSION 13954               
+POS_SIDER 14160               
+POS_FILETYPES 4433                
+POS_DOWNLOADS 4672                
+POS_OS 4752                
+POS_BROWSER 4985                
+POS_SCREENSIZE 6237                
+POS_UNKNOWNREFERER 6311                
+POS_UNKNOWNREFERERBROWSER 6945                
+POS_ORIGIN 7347                
+POS_SEREFERRALS 7486                
+POS_PAGEREFS 7630                
+POS_SEARCHWORDS 7778                
+POS_KEYWORDS 7930                
+POS_MISC 2351                
+POS_ERRORS 7989                
+POS_CLUSTER 3554                
+POS_SIDER_404 8093                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230501020523 1 0 6859854396815
+FirstTime 20230401011038
+LastTime 20230429213902
+LastUpdate 20230501052920 1 0 0 0 0
+TotalVisits 85                  
+TotalUnique 76                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 77                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 27 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 28 2731414 0 2 2476
+1 49 229 33933992 7 23 15830
+2 4 4 14169 4 5 20104
+3 4 4 29029 0 2 1238
+4 1 1 3810 0 1 1238
+5 4 5 9084 0 3 3714
+6 1 1 3475 0 3 3714
+7 2 2 29514 1 1 14463
+8 1 5 10673 0 2 1150
+9 1 1 3513 0 3 3714
+10 25 109 122681829 19 28 52746
+11 12 63 14958134 2 6 3626
+12 2 3 19680 0 1 1150
+13 1 1 18490 0 0 0
+14 3 18 248674 3 4 6423
+15 4 4 15936 7 8 9904
+16 6 36 604380 4 5 4952
+17 186 318 56431216 2 17 6547
+18 154 437 201876456 9 34 20782
+19 22 58 41583836 4 31 32134
+20 9 50 174317206 0 16 18482
+21 46 354 21235028 16 36 27966
+22 0 0 0 0 1 0
+23 1 5 10202 0 2 1150
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+tr 467 1538 341077226
+us 60 148 3887327
+ca 7 25 246953
+se 3 3 10972
+in 2 20 166103
+be 1 2 4629
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 2 29615 20230429025647 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+woff 60 6388960 0 0
+html 101 448909 0 0
+svg 69 108269 0 0
+png 309 2591077 0 0
+js 441 4607801 0 0
+php 379 732271 0 0
+jpg 49 1684311 0 0
+css 326 3125122 0 0
+mp4 2 207665829 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/video/intro.mp4 1 40 325706490
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+linux 158 31
+macosx8 3 3
+win10 1296 449
+macosx 16 2
+win8.1 1 1
+android 177 24
+android10 79 7
+macosx15 3 3
+Unknown 21 11
+winnt 14 1
+androidnougat 1 1
+androidkitkat 7 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 60
+chrome51.0.99 1 0
+chrome100.0.4896.127 1 1
+chrome103.0.0.0 18 2
+chrome26.0.1410.65 3 3
+chrome78.0.1296 1 0
+chrome111.0.0.0 263 58
+chrome89.0.574 1 0
+chrome90.0.1416 1 0
+chrome97.0.2581 1 0
+chrome72.0.3626.121 1 1
+chrome100.0.1020 1 1
+chrome83.0.4103.97 18 18
+chrome68.0.1548 1 0
+opera97.0.0.0 69 35
+chrome83.0.1871 1 0
+chrome112.0.0.0 1075 357
+chrome66.0.1864 1 0
+chrome95.0.4638.54 3 3
+chrome70.0.1729 1 0
+chrome78.0.2294 1 0
+chrome84.0.4147.105 1 1
+chrome100.0.1518 1 0
+Unknown 6 6
+chrome105.0.2621 1 1
+chrome94.0.560 1 0
+chrome98.0.49 1 0
+firefox79.0 1 1
+chrome75.0.2319 1 0
+chrome96.0.1893 1 0
+chrome54.0.183 1 0
+chrome82.0.1016 1 0
+chrome103.0.1569 1 0
+chrome92.0.816 1 0
+chrome105.0.454 1 0
+chrome85.0.1710 1 0
+chrome66.0.3359.181 20 20
+chrome64.0.1764 1 0
+firefox103.0 1 1
+firefox33.0 1 1
+chrome106.0.0.0 1 1
+chrome71.0.2309 1 1
+chrome71.0.925 1 0
+chrome101.0.1897 1 0
+chrome107.0.2826 1 1
+chrome73.0.444 1 0
+chrome81.0.113 1 0
+chrome102.0.1135 1 0
+firefox111.0 142 13
+chrome99.0.425 1 0
+chrome55.0.8 1 0
+android 7 7
+chrome80.0.2561 1 0
+chrome84.0.1804 1 0
+chrome58.0.422 1 0
+chrome102.0.1812 1 0
+chrome102.0.50 1 0
+chrome71.0.1074 1 0
+chrome68.0.3440.106 91 3
+mozilla 14 4
+chrome56.0.1965 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230419230514
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230425124326
+WhatsApp/2.2313.6_W 20230419184623
+Mozilla/5.0_Firefox/33.0 20230408032226
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230420123518
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230425124326
+WhatsApp/2.2313.6_W 20230419184623
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 146 196
+From1 0 0
+From2 0 0
+From3 0 0
+From4 394 1580
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 26 52768
+404 115 142370
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 43
+/phpmyadmin/index.php 2 -
+/img/video_fix.png 18 http://www.golhisarim.com.tr/index.html
+/florence-must-see-grid.html 1 http://golhisarim.com.tr/
+/' 2 -
+/giris/img/pins/Mustsee.png 4 http://www.golhisarim.com.tr/giris/profile.php
+/eng/eng.html 1 http://golhisarim.com.tr/
+/php/thinkphp/aaaffff123.php 2 -
+/misc/ajax.js 3 -
+/img/sub_header_home.jpg 1 http://golhisarim.com.tr/css/style.css
+/humans.txt 3 -
+/giri%C5%9F/profilim.php 1 -
+/img/events_list_5.jpg 1 http://golhisarim.com.tr/banka-finans.html
+/robots.txt 9 -
+/etc/passwd 2 -
+/wp-admin 2 -
+/giris/img/pins/Restaurants.png 4 http://www.golhisarim.com.tr/giris/profile.php
+/ads.txt 3 -
+/PhpMyAdmin/index.php 2 -
+/uyeol.php 1 http://golhisarim.com.tr/login-register.html
+/video/intro.ogv 3 http://golhisarim.com.tr/
+/florence-events-grid.html 1 http://golhisarim.com.tr/
+/0x00 1 -
+/pma/index.php 2 -
+/img/events_list_7.jpg 1 http://golhisarim.com.tr/banka-finans.html
+/submit-form.php 1 http://golhisarim.com.tr/login-register.html
+/img/sub_header_florence_2.jpg 1 http://golhisarim.com.tr/faq.html
+/giris/img/pins/Bars.png 4 http://www.golhisarim.com.tr/giris/profile.php
+/view-source: 3 -
+/img/events_list_4.jpg 1 http://golhisarim.com.tr/banka-finans.html
+/sitemap.xml 4 -
+/.env 8 -
+/admin 1 -
+/wp-includes/wlwmanifest.xml 3 -
+/img/events_list_8.jpg 1 http://golhisarim.com.tr/banka-finans.html
+/administrator/index.php 3 -
+/img/events_list_2.jpg 1 http://golhisarim.com.tr/banka-finans.html
+/img/events_list_3.jpg 1 http://golhisarim.com.tr/banka-finans.html
+/giris/img/pins/Hotels.png 4 http://www.golhisarim.com.tr/giris/profile.php
+/img/events_list_6.jpg 1 http://golhisarim.com.tr/banka-finans.html
+/css/bootstrap.min.css.map 3 -
+/login-register.html 2 http://golhisarim.com.tr/
+/index_sso.php 2 -
+/img/events_list_1.jpg 1 http://golhisarim.com.tr/banka-finans.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 77
+176.240.103.81 372 963 156173878 20230428192320
+176.42.34.27 45 172 62617123 20230419184901
+188.119.21.50 13 142 15747226 20230402015346
+31.223.26.119 12 81 16323117 20230403211725
+195.155.188.36 9 69 1186660 20230414215303
+94.55.173.188 8 56 87697446 20230425203815
+35.91.229.192 7 7 27888 20230410161905
+176.220.4.29 4 52 724297 20230414215245
+91.93.234.33 3 33 592428 20230417160311
+34.219.205.124 1 1 3821 20230404012736
+54.203.3.139 1 1 3513 20230425011906
+3.219.237.5 1 1 3499 20230401180038
+34.219.170.44 1 1 3984 20230406012541
+103.218.243.201 1 10 83267 20230405211317
+167.248.133.33 1 2 5100 20230409053800
+130.255.166.24 1 1 3984 20230407050015
+35.86.149.240 1 1 3513 20230423013156
+52.36.140.102 1 1 3513 20230426013021
+34.220.99.2 1 1 3513 20230423013228
+205.210.31.174 1 1 18490 20230412132018
+165.154.134.177 1 10 82572 20230418103727
+88.241.210.128 1 1 15051 20230425010412
+54.202.62.127 1 1 3821 20230404012301
+34.220.126.128 1 1 3510 20230418011149
+54.213.20.23 1 1 3510 20230418012953
+44.204.115.49 1 1 3532 20230429171101
+34.211.147.48 1 1 3984 20230410010821
+54.184.7.180 1 1 3475 20230416013504
+34.220.124.50 1 1 3475 20230416013318
+54.187.11.248 1 1 3513 20230428035715
+35.85.54.151 1 1 3810 20230402013314
+35.81.171.129 1 1 3532 20230429213902
+54.245.53.110 1 1 3513 20230428034521
+54.190.103.137 1 1 3513 20230425020617
+18.236.116.200 1 1 3475 20230416012802
+52.27.27.233 1 1 3540 20230429003041
+18.237.116.232 1 1 3819 20230403010623
+198.235.24.68 1 1 14463 20230415075003
+35.87.18.66 1 1 3504 20230415022314
+35.91.27.121 1 1 3510 20230417010458
+130.255.166.90 1 1 3475 20230416062414
+167.94.138.125 1 5 10202 20230419230513
+198.235.24.84 1 1 15051 20230419074222
+35.92.182.26 1 1 3984 20230405010617
+44.234.57.194 1 1 3513 20230418211634
+93.158.90.69 1 1 3513 20230425091008
+34.222.40.163 1 1 3513 20230421014110
+35.92.52.129 1 1 3513 20230425012314
+54.244.165.24 1 1 3513 20230419012241
+34.213.188.116 1 1 3810 20230401011038
+34.210.31.196 1 1 3984 20230407012602
+34.217.145.16 1 1 3821 20230404011942
+18.237.58.225 1 1 3513 20230420014717
+54.212.250.211 1 1 3984 20230407010549
+35.92.13.250 1 31 1341825 20230417010501
+8.36.86.50 1 1 18490 20230408032226
+165.154.119.27 1 10 82836 20230421180053
+87.236.176.65 1 1 3513 20230420123516
+65.154.226.168 1 1 3513 20230425010519
+52.10.38.5 1 30 847133 20230424012410
+52.25.23.103 1 1 3510 20230418011538
+18.237.87.10 1 1 3513 20230428034459
+18.237.149.27 1 1 3984 20230407012811
+103.149.27.51 1 10 82836 20230427215229
+35.93.1.198 1 1 3984 20230409011457
+35.211.206.89 1 1 3810 20230401041915
+35.87.81.132 1 1 3821 20230404011847
+35.89.131.100 1 1 3984 20230407012815
+87.236.176.199 0 1 1116 
+35.93.154.171 1 1 3984 20230408021531
+18.236.183.77 1 1 3821 20230404012838
+205.210.31.143 1 1 15051 20230425124326
+198.235.24.146 1 1 18490 20230407195947
+35.89.254.106 1 30 1457871 20230429003048
+35.91.135.238 1 1 3513 20230424012405
+3.237.255.25 1 1 3168 20230416021409
+167.94.138.49 1 5 10673 20230413083354
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20230401 3 3 11119 3
+20230402 21 183 44500494 3
+20230403 8 39 16664087 3
+20230404 5 5 19105 5
+20230405 2 11 87251 2
+20230406 1 1 3984 1
+20230407 6 6 38410 6
+20230408 2 2 22474 2
+20230409 2 3 9084 2
+20230410 8 8 31872 2
+20230412 1 1 18490 1
+20230413 1 5 10673 1
+20230414 11 119 1910957 2
+20230415 2 2 17967 2
+20230416 5 5 17068 5
+20230417 5 62 3092271 3
+20230418 63 219 177856198 9
+20230419 341 861 206083136 7
+20230420 2 3 8142 2
+20230421 2 11 86349 2
+20230423 2 2 7026 2
+20230424 2 28 1509938 2
+20230425 15 56 174362933 8
+20230426 1 1 3513 1
+20230427 1 10 82836 1
+20230428 24 60 41575885 4
+20230429 4 30 2738478 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+2mn-5mn 1
+30mn-1h 1
+15mn-30mn 3
+0s-30s 69
+30s-2mn 7
+5mn-15mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/reset.php 327 627266 7 5
+/ 95 427769 75 70
+/css/icon_fonts/font/ElegantIcons.woff 50 3183200 0 1
+/giris.php 33 59747 2 3
+/css/icon_fonts/font/fontello.woff 10 3205760 0 1
+/index.php 5 17700 0 1
+/forgotpass.php 4 6863 0 0
+/kayit.php 4 7943 0 1
+/banka-finans.html 4 15816 0 1
+/assets/mail.php 2 0 1 1
+/giris/profile.php 2 6970 0 0
+/faq.html 1 3496 0 1
+/giris/profilim.php 1 2809 0 0
+/login-register.html 1 1828 0 0
+/contacts.php 1 2973 0 0
+END_SIDER

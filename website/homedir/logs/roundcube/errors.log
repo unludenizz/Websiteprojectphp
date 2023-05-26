@@ -1,0 +1,2 @@
+[20-Mar-2023 17:47:32 +0300]: <e7cafedc> DB Error: [1] no such table: carddav_migrations (SQL Query: SELECT "filename" FROM carddav_migrations) in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/rcube_db.php on line 566 (GET /cpsess5536050984/3rdparty/roundcube/index.php)
+[21-Mar-2023 04:53:41 +0300]: <cd256104> DB Error: [1] no such table: carddav_migrations (SQL Query: SELECT "filename" FROM carddav_migrations) in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/rcube_db.php on line 566 (GET /cpsess1510209891/3rdparty/roundcube/index.php)

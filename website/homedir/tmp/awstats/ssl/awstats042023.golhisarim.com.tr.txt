@@ -1,0 +1,779 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home/golhisarim/tmp/awstats/ssl/awstats.golhisarim.com.tr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2709                
+POS_VISITOR 28468               
+POS_DAY 30775               
+POS_DOMAIN 3681                
+POS_LOGIN 3989                
+POS_ROBOT 4144                
+POS_WORMS 4391                
+POS_EMAILSENDER 4522                
+POS_EMAILRECEIVER 4665                
+POS_SESSION 31654               
+POS_SIDER 31862               
+POS_FILETYPES 4800                
+POS_DOWNLOADS 5110                
+POS_OS 5192                
+POS_BROWSER 5413                
+POS_SCREENSIZE 6451                
+POS_UNKNOWNREFERER 6525                
+POS_UNKNOWNREFERERBROWSER 7084                
+POS_ORIGIN 7451                
+POS_SEREFERRALS 7595                
+POS_PAGEREFS 7758                
+POS_SEARCHWORDS 7906                
+POS_KEYWORDS 8058                
+POS_MISC 2370                
+POS_ERRORS 8117                
+POS_CLUSTER 3845                
+POS_SIDER_404 8288                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230501043536 2525 707063 11169940416187
+FirstTime 20230401000106
+LastTime 20230430235303
+LastUpdate 20230501052921 2525 0 2524 0 0
+TotalVisits 152                 
+TotalUnique 55                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 56                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 1820 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 305 1902 230925730 79 655 701904
+1 219 1103 149635532 34 330 393195
+2 157 848 184089506 11 73 84321
+3 186 591 224414302 8 74 84612
+4 11 38 19504544 3 26 47995
+5 43 95 147097343 3 7 7666
+6 266 890 78323516 70 161 97007
+7 222 1021 186707957 32 91 48490
+8 262 1460 101388147 47 143 78015
+9 369 1921 172750942 65 207 124983
+10 421 2335 290096656 49 237 202218
+11 555 2701 396995238 69 255 278740
+12 593 3517 587865920 79 301 312838
+13 302 1493 517157022 46 159 125826
+14 412 1408 306207491 106 264 5247329
+15 568 2932 401096600 85 275 224139
+16 827 3960 453222614 91 395 228880
+17 965 3606 1248631217 194 523 463609
+18 1458 8608 3065750942 171 683 629402
+19 1089 4628 3034581279 483 847 1273316
+20 1016 4327 2089868472 187 486 456118
+21 704 2317 811963071 179 404 386291
+22 427 2282 472312552 128 325 38471731
+23 537 2661 243696024 109 307 287278
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+tr 11868 56550 9556309649
+us 22 42 180127
+se 11 11 40329
+ca 11 38 379395
+be 1 2 4629
+gb 1 1 3451
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 7 135460 20230429151753 0
+Go\-http\-client/ 6 23904 20230412232958 0
+survey 1 18490 20230408065024 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+png 8201 2570822951 0 0
+woff2 379 29634852 0 0
+js 17696 189958778 0 0
+map 5 1580905 0 0
+svg 2148 2342989 0 0
+woff 3127 571807691 0 0
+php 7466 20045266 0 0
+html 937 2354048 0 0
+css 14045 129150107 0 0
+jpg 2585 181854956 0 0
+mp4 55 5087857851 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/video/intro.mp4 0 786 5857365037
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+androidkitkat 1 1
+android10 48 7
+androidoreo 18 2
+Unknown 24 12
+win10 56886 11808
+android 385 69
+linux 34 11
+androidmarshmallow 6 2
+winnt 15 1
+macosx 13 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 50
+chrome51.0.2253 1 0
+chrome92.0.2253 1 0
+chrome68.0.1200 1 1
+chrome106.0.488 1 0
+chrome87.0.316 1 0
+chrome95.0.2026 1 0
+chrome87.0.2727 1 0
+chrome68.0.569 1 0
+chrome50.0.2177 1 0
+chrome57.0.2 1 0
+chrome104.0.393 1 0
+chrome83.0.4103.97 5 5
+chrome73.0.308 1 0
+chrome76.0.2808 1 1
+chrome104.0.800 1 0
+Unknown 8 8
+chrome98.0.1875 1 0
+chrome61.0.479 1 0
+chrome92.0.760 1 0
+chrome91.0.784 1 0
+chrome91.0.2745 1 0
+chrome67.0.922 1 0
+chrome64.0.1657 1 0
+chrome53.0.122 1 0
+chrome85.0.1937 1 0
+chrome66.0.3359.181 12 12
+chrome62.0.2935 1 0
+chrome82.0.737 1 0
+chrome67.0.415 1 0
+android 1 1
+chrome111.0.0.0 18351 3138
+chrome90.0.459 1 0
+chrome79.0.2049 1 0
+chrome60.0.2292 1 0
+chrome57.0.2058 1 0
+chrome112.0.0.0 38795 8696
+chrome54.0.812 1 0
+chrome83.0.1435 1 0
+chrome54.0.883 1 0
+chrome103.0.0.0 116 21
+chrome77.0.2348 1 1
+chrome96.0.2324 1 0
+chrome51.0.2040 1 1
+opera97.0.0.0 75 14
+mozilla 16 4
+chrome54.0.539 1 0
+chrome58.0.1681 1 0
+chrome81.0.237 1 0
+chrome105.0.0.0 11 11
+chrome99.0.2539 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230428174508
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230419215440
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230418211223
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230428174508
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1056 1106
+From1 0 0
+From2 1 1
+From3 0 0
+From4 10857 56323
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 1 1229
+302 1213 1439604
+416 1 776
+206 94 43356431
+500 225 59736
+301 1 707
+404 2536 3134616
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 279
+/florence-restaurants-grid.html 1 https://golhisarim.com.tr/index.html
+/giris/contact.php 16 https://golhisarim.com.tr/giris/contacts.php
+/images/B.jpg 1 https://golhisarim.com.tr/index.html
+/giris.html 1 https://golhisarim.com.tr/eng/giris.php
+/adminpanel/%3Cimg%20src= 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/deu/css/style.css 36 https://golhisarim.com.tr/deu/contacts.html
+/img/bar_list_2.jpg 2 https://golhisarim.com.tr/banka-finans-detail.html
+/img/kullanicifotograflari/2-2023-04-28%2018:07:51. 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/img/kullanicifotograflari/21-2023-04-30%2017:06:42. 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/eng/login-register.html 8 https://golhisarim.com.tr/eng/index.html
+/img/resimsiz.jpg 1 https://golhisarim.com.tr/giris/profilim.php
+/profile.php 6 -
+/f 1 -
+/deu/img/bg_login.png 4 https://www.golhisarim.com.tr/deu/login-register.html
+/giris/img/logo_2.png 22 https://golhisarim.com.tr/giris/contacts.php
+/deu/img/events_list_6.jpg 2 https://www.golhisarim.com.tr/deu/sektor.html
+/deu/giris/index.html 10 https://www.golhisarim.com.tr/deu/giris/profile.php
+/sitemap.xml 4 -
+/giris/banka-finans.html 13 https://www.golhisarim.com.tr/giris/profile.php
+/deu/js/score.js 2 https://www.golhisarim.com.tr/deu/sektor.html
+/images/E.jpg 1 https://golhisarim.com.tr/index.html
+/giris/images/resimsiz.jpg 1 https://golhisarim.com.tr/giris/profilim.php
+/giris/index.html 4 https://www.golhisarim.com.tr/giris/sektorekle.php
+/deu/banka-finans-detail.html 5 https://www.golhisarim.com.tr/deu/sektor.html
+/deu/img/events_list_4.jpg 2 https://www.golhisarim.com.tr/deu/sektor.html
+/deu/js/justgage.min.js 12 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/img/must_see_list_6.jpg 2 https://golhisarim.com.tr/banka-finans-detail.html
+/phpmailer/iletisim.pph 2 -
+/deu/img/mobile.png 7 https://golhisarim.com.tr/deu/about.html
+/video/intro.ogv 10 https://golhisarim.com.tr/
+/adminpanel/guncelliyomuu.php 1 https://www.golhisarim.com.tr/adminpanel/kayittables.php
+/img/kullanicifotograflari/2-2023-04-27 7 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/deu/css/animate.min.css 36 https://golhisarim.com.tr/deu/contacts.html
+/deu/img/tour_plan_4.jpg 10 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/eng/js/pw_strenght.js 2 https://golhisarim.com.tr/eng/giris.php
+/img/kullanicifotograflari/2-2023-04-27%2020:00:42. 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/deu/giris/about.php 1 https://golhisarim.com.tr/deu/giris/contacts.php
+/deu/img/events_list_2.jpg 2 https://www.golhisarim.com.tr/deu/sektor.html
+/deu/js/common_scripts_min.js 36 https://golhisarim.com.tr/deu/contacts.html
+/kayitol.php 3 https://golhisarim.com.tr/giris.php
+/video/intro.mp4 1 https://golhisarim.com.tr/index.html
+/giris/assets/validate.js 4 https://golhisarim.com.tr/giris/contacts.php
+/giris/img/video_fix.png 2 https://golhisarim.com.tr/giris/profile.php
+/wishlist.html 4 https://www.golhisarim.com.tr/banka-finans.html
+/img/kullanicifotograflari/2-2023-04-27%2021:12:13.png 1 https://golhisarim.com.tr/adminpanel/kabuledilenresimler.php
+/img/kullaniciresim.jpg 4 https://golhisarim.com.tr/giris/profilim.php
+/deu/img/events_list_5.jpg 2 https://www.golhisarim.com.tr/deu/sektor.html
+/uyelik.php 4 -
+/eng/florence-bars-map-listing.html 1 https://www.golhisarim.com.tr/eng/index.html
+/eng/css/style.css 2 https://golhisarim.com.tr/eng/contacts.php
+/deu/florence-must-see-grid.html 1 https://www.golhisarim.com.tr/deu/sektor.html
+/giris/guncellem.php 1 -
+/index.js 1 https://golhisarim.com.tr/index.html
+/.env 1 -
+/contacts.html 11 https://golhisarim.com.tr/contacts.php
+/giris/js/jquery-2.2.4.min.js 4 https://golhisarim.com.tr/giris/contacts.php
+/giris/guncellee.php 1 https://golhisarim.com.tr/giris/guncellefirma.php
+/img/kullanicifotograflari/29-2023-04-30%2018:22:02.png 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/giris/video/intro.ogv 1 https://golhisarim.com.tr/giris/profile.php
+/login-register.html 1 https://golhisarim.com.tr/eng/giris.php
+/eng/img/bg_login.png 5 https://golhisarim.com.tr/eng/kayit.php
+/eng/giris.php.html 1 https://golhisarim.com.tr/eng/giris.php
+/img/kullanicifotograflari/2-2023-04-28%2018:07:47. 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/deu/index_2.html 1 https://www.golhisarim.com.tr/deu/sektor.html
+/index.css 1 https://golhisarim.com.tr/index.html
+/adminpanel/img/kullanicifotograflari/2-2023-04-27%2019:05:07.png 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/images/haber3.PNG 1 https://golhisarim.com.tr/index.html
+/giris/guncelleme.php 1 -
+/giris/profile.html 2 https://www.golhisarim.com.tr/giris/profile.php
+/phpmyadmin/index.php 2 -
+/images/resimsiz.jpg 1 https://golhisarim.com.tr/giris/profilim.php
+/http://maps.googleapis.com/maps/api/js 48 https://golhisarim.com.tr/deu/sektor.html
+/img/tour_plan_1.jpg 1 https://golhisarim.com.tr/banka-finans-detail.html
+/images/C.png 1 https://golhisarim.com.tr/index.html
+/eng/css/animate.min.css 2 https://golhisarim.com.tr/eng/contacts.php
+/deu/sektorekle.php 1 https://golhisarim.com.tr/giris/sektorekle.php
+/img/tour_plan_4.jpg 1 https://golhisarim.com.tr/banka-finans-detail.html
+/eng/contacts.html 9 https://golhisarim.com.tr/eng/about.html
+/img/kullanicifotograflari/2-2023-04-27%2020:00:25. 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/deu/js/pw_strenght.js 4 https://www.golhisarim.com.tr/deu/login-register.html
+/faq.php 5 -
+/img/restaurant_list_1.jpg 2 https://golhisarim.com.tr/banka-finans-detail.html
+/robots.txt 4 -
+/img/sub_header_florence_2.jpg 3 https://golhisarim.com.tr/faq.html
+/banka-ve-finans.php 1 https://www.golhisarim.com.tr/giris/profilim.php
+/img/sub_header_home.jpg 11 https://golhisarim.com.tr/css/style.css
+/iletisim.php 3 -
+/adminpanel/img/kullanicifotograflari/2-2023-04-27 2 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/giris/florence-must-see-grid.html 1 https://www.golhisarim.com.tr/giris/profile.php
+/giris/adminpanel.php 2 -
+/deu/css/icon_fonts/css/all_icons.min.css 36 https://golhisarim.com.tr/deu/contacts.html
+/adminpanel/sil.php20 1 https://golhisarim.com.tr/adminpanel/kayittables.php
+/adminpanel/giris.php 4 https://golhisarim.com.tr/adminpanel/login.php
+/eng/giris/profile.html 3 https://www.golhisarim.com.tr/giris/profile.php
+/giris/img/resimsiz.png 1 https://golhisarim.com.tr/giris/yeme-icme.php
+/adminpanel/index.html 3 https://www.golhisarim.com.tr/adminpanel/404.html
+/giris/get_firma_info.php 1 https://golhisarim.com.tr/giris/guncelle.php
+/deu/contacts.php 2 https://golhisarim.com.tr/eng/contacts.php
+/deu/img/logo_2.png 32 https://golhisarim.com.tr/deu/contacts.html
+/img/restaurant_list_3.jpg 2 https://golhisarim.com.tr/banka-finans-detail.html
+/deu/assets/validate.js 36 https://golhisarim.com.tr/deu/contacts.html
+/giris/img/logo.png 2 https://golhisarim.com.tr/giris/yeme-icme.php
+/giris/js/infobox.js 4 https://golhisarim.com.tr/giris/contacts.php
+/giris/img/kullanicifotograflari/19-2023-04-29%2014:52:5 1 https://golhisarim.com.tr/giris/yeme-icme.php
+/deu/img/team.jpg 7 https://golhisarim.com.tr/deu/about.html
+/deu/img/tour_plan_3.jpg 10 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/img/events_list_7.jpg 24 https://www.golhisarim.com.tr/banka-finans.html
+/deu/img/testimonial_1.jpg 7 https://golhisarim.com.tr/deu/about.html
+/giris/js/map_home.js 1 https://golhisarim.com.tr/giris/profile.php
+/deu/florence-event-detail.html 1 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/img/resimsiz.png%20class= 2 https://golhisarim.com.tr/giris/guncellefirma.php
+/index.html 3 https://www.golhisarim.com.tr/deu/index.html
+/eng/florence-event-map-listing.html 1 https://www.golhisarim.com.tr/eng/index.html
+/deu/img/must_see_list_6.jpg 10 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/img/events_list_4.jpg 24 https://www.golhisarim.com.tr/banka-finans.html
+/deu/js/jquery-2.2.4.min.js 36 https://golhisarim.com.tr/deu/contacts.html
+/giris/guncellesektor.php 1 -
+/img/events_list_5.jpg 24 https://www.golhisarim.com.tr/banka-finans.html
+/deu/giris/profile.html 1 https://www.golhisarim.com.tr/giris/profile.php
+/adminpanel/utilities-border.html 1 -
+/giris/yeme-icme.php 3 https://golhisarim.com.tr/giris/profilim.php
+/giris/js/common_scripts_min.js 4 https://golhisarim.com.tr/giris/contacts.php
+/eng/giris/about.html 1 https://golhisarim.com.tr/giris/about.php
+/img/img/kullanicifotograflari/2-2023-04-27%2019:05:34.png 4 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/yemeicme.html 5 https://www.golhisarim.com.tr/index.html
+/php/thinkphp/aaaffff123.php 2 -
+/eng/img/logo_2.png 5 https://golhisarim.com.tr/eng/contacts.php
+/deu/css/magnific-popup.min.css 10 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/images/haber5.PNG 1 https://golhisarim.com.tr/index.html
+/eng/assets/validate.js 3 https://golhisarim.com.tr/eng/contacts.php
+/deu/css/ion.rangeSlider.css 2 https://www.golhisarim.com.tr/deu/sektor.html
+/images/haber4.PNG 1 https://golhisarim.com.tr/index.html
+/giris/about.php 2 https://www.golhisarim.com.tr/giris/profile.php
+/img/events_list_1.jpg 22 https://www.golhisarim.com.tr/banka-finans.html
+/img/kullanicifotograflari/19-2023-04-29%2014:52:5 4 https://golhisarim.com.tr/giris/yeme-icme.php
+/adminpanel/login 2 -
+/deu/img/apple-touch-icon-144x144-precomposed.png 1 https://golhisarim.com.tr/deu/about.html
+/deu/florence-hotels-grid.html 1 https://www.golhisarim.com.tr/deu/sektor.html
+/deu/eng/giris/sektorekle.php 2 https://golhisarim.com.tr/deu/giris/sektorekle.php
+/giris/phpmailer/iletisim.php 2 https://golhisarim.com.tr/giris/contacts.php
+/deu/js/sidebar_carousel_detail_page_func.js 10 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/adminpanel/kabuledilenfotolar.php 1 -
+/eng/js/functions.js 3 https://golhisarim.com.tr/eng/contacts.php
+/deu/js/mapmarker_func.jquery.js 5 https://golhisarim.com.tr/deu/contacts.html
+/giris/image.jpg 1 https://golhisarim.com.tr/giris/profilim.php
+/deu/giris/profile.php 2 https://www.golhisarim.com.tr/eng/giris/profile.php
+/img/sub_header_contact.jpg 13 https://golhisarim.com.tr/giris/contacts.php
+/img/kullanicifotograflari/2-2023-04-28%2018:06:08. 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/images/A.jpg 1 https://golhisarim.com.tr/index.html
+/sub_header_contact.jpg 2 https://golhisarim.com.tr/contacts.php
+/eng/js/common_scripts_min.js 3 https://golhisarim.com.tr/eng/contacts.php
+/giris/css/animate.min.css 6 https://golhisarim.com.tr/giris/contacts.php
+/img/kullanicifotograflari/2-2023-04-28%2018:07:50. 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/deu/giris.php 1 https://golhisarim.com.tr/eng/giris.php
+/img/kullanicifotograflari/2-2023-04-28%2018:07:49. 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/deu/img/apple-touch-icon-57x57-precomposed.png 1 https://golhisarim.com.tr/deu/about.html
+/index.php 1 -
+/giris/about.html 5 https://golhisarim.com.tr/giris/profile.php
+/images/logo.png 2 https://golhisarim.com.tr/index.html
+/eng/yemeicme.html 1 https://www.golhisarim.com.tr/yemeicme.html
+/deu/img/restaurant_list_3.jpg 10 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/img/kullanicifotograflari/2-2023-04-27%2021:12:30.png 1 https://golhisarim.com.tr/adminpanel/kabuledilenresimler.php
+/deu/js/theia-sticky-sidebar.min.js 18 https://golhisarim.com.tr/deu/faq.html
+/giris/js/mapmarker.jquery.js 3 https://golhisarim.com.tr/giris/contacts.php
+/giris/florence-events-grid.html 1 https://www.golhisarim.com.tr/giris/profile.php
+/img/kullanicifotograflari/29-2023-04-30%2018:22:05.png 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/adminpanel/profilim.php 1 https://golhisarim.com.tr/giris/profilim.php
+/deu/js/functions.js 36 https://golhisarim.com.tr/deu/contacts.html
+/eng/img/logo_2_2x.png 4 https://golhisarim.com.tr/eng/contacts.php
+/kayitphp 2 -
+/giris/eng/login-register.html 1 https://www.golhisarim.com.tr/giris/sektorekle.php
+/giris/img/logo_2_2x.png 13 https://golhisarim.com.tr/giris/yeme-icme.php
+/deu/img/events_list_8.jpg 12 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/img/video_fix.png 474 https://golhisarim.com.tr/giris/profile.php
+/giris/css/ion.rangeSlider.css 2 https://golhisarim.com.tr/giris/yeme-icme.php
+/giris/kayit.php 3 https://golhisarim.com.tr/giris/guncelle.php
+/uyeol.php 1 https://golhisarim.com.tr/kayit.php
+/css/bootstrap.min.css.map 544 -
+/img/kullanicifotograflari/2-2023-04-27%2020:00:37. 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/giris.php.html 4 https://golhisarim.com.tr/eng/giris.php
+/deu/deu.html 3 https://www.golhisarim.com.tr/
+/adminpanel.php 1 -
+/images/D.jpg 1 https://golhisarim.com.tr/index.html
+/yemeicmegiris.php 3 -
+/deu/img/restaurant_list_1.jpg 10 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/adminpanel/resimde%C4%9Ferlendirme.php 1 https://golhisarim.com.tr/adminpanel/panel.php
+/giris/js/video_header.js 1 https://golhisarim.com.tr/giris/profile.php
+/adminpanel/js/firmaguncelle.js 1 https://golhisarim.com.tr/adminpanel/firmaguncelle.php
+/img/events_list_8.jpg 27 https://www.golhisarim.com.tr/banka-finans.html
+/eng/giris.php.php 1 https://golhisarim.com.tr/giris.php
+/yemeicme.php 4 -
+/deu/img/events_list_7.jpg 2 https://www.golhisarim.com.tr/deu/sektor.html
+/eng/js/mapmarker_func.jquery.js 1 https://golhisarim.com.tr/eng/contacts.php
+/deu/deu/giris/sektorekle.php 1 https://golhisarim.com.tr/deu/giris/sektorekle.php
+/img/events_list_2.jpg 24 https://www.golhisarim.com.tr/banka-finans.html
+/img/tour_plan_3.jpg 1 https://golhisarim.com.tr/banka-finans-detail.html
+/img/tour_plan_2.jpg 1 https://golhisarim.com.tr/banka-finans-detail.html
+/adminpanel/login.html 3 https://www.golhisarim.com.tr/adminpanel/tables.html
+/giris/eng/profile.php 2 -
+/assets/forgotiletisim.php 3 -
+/img/kullanicifotograflari/20-2023-04-30%2016:14:28.png 2 https://golhisarim.com.tr/giris/profilim.php
+/pma/index.php 2 -
+/deu/img/bar_list_2.jpg 10 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/giris/js/functions.js 4 https://golhisarim.com.tr/giris/contacts.php
+/giris.php.php 1 https://golhisarim.com.tr/giris.php
+/adminpanel/register.html 1 https://golhisarim.com.tr/adminpanel/index.html
+/giris/video/intro.mp4 1 https://golhisarim.com.tr/giris/profile.php
+/giris/css/bootstrap.min.css 6 https://golhisarim.com.tr/giris/contacts.php
+/adminpanel/panel.php 3 https://golhisarim.com.tr/adminpanel/login.php
+/forgotiletisim.php 1 https://www.golhisarim.com.tr/forgotpass.php
+/eng/florence-shops-map-listing.html 1 https://golhisarim.com.tr/eng/index.html
+/images/haber1.PNG 1 https://golhisarim.com.tr/index.html
+/deu/img/logo_login.png 4 https://www.golhisarim.com.tr/deu/login-register.html
+/deu/css/custom.css 36 https://golhisarim.com.tr/deu/contacts.html
+/eng/css/menu.css 2 https://golhisarim.com.tr/eng/contacts.php
+/giris/example.php 2 https://golhisarim.com.tr/giris/guncelle.php
+/deu/img/events_list_1.jpg 12 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/img/sub_header_florence_3.jpg 1 https://golhisarim.com.tr/banka-finans-detail.html
+/images/haber6.PNG 1 https://golhisarim.com.tr/index.html
+/giris/css/menu.css 6 https://golhisarim.com.tr/giris/contacts.php
+/florence-must-see-grid.html 1 https://golhisarim.com.tr/index.html
+/img/kullanicifotograflari/21-2023-04-30%2016:20:50.png 1 https://golhisarim.com.tr/giris/profilim.php
+/eng/eng.html 4 https://www.golhisarim.com.tr/
+/giris/js/mapmarker_func.jquery.js 3 https://golhisarim.com.tr/giris/contacts.php
+/deu/img/apple-touch-icon-114x114-precomposed.png 1 https://golhisarim.com.tr/deu/about.html
+/deu/florence-transports.html 2 https://www.golhisarim.com.tr/deu/sektor.html
+/giris/css/style.css 6 https://golhisarim.com.tr/giris/contacts.php
+/deu/img/tour_plan_1.jpg 10 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/eng/img/sub_header_contact.jpg 5 https://golhisarim.com.tr/eng/contacts.php
+/giris/....//css/icon_fonts/css/all_icons.min.css 1 https://golhisarim.com.tr/giris/yeme-icme.php
+/deu/js/raphael-2.1.4.min.js 12 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/img/kullanicifotograflari/29-2023-04-30%2018:21:57.png 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/submit-form.php 2 https://golhisarim.com.tr/kayit.php
+/adminpanel/charts.html 2 https://golhisarim.com.tr/adminpanel/index.html
+/deu/css/bootstrap.min.css 36 https://golhisarim.com.tr/deu/contacts.html
+/giris/yemeicmegiris.html 1 https://www.golhisarim.com.tr/giris/profile.php
+/deu/img/events_list_3.jpg 12 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/deu/js/infobox.js 25 https://golhisarim.com.tr/deu/contacts.html
+/eng/css/icon_fonts/css/all_icons.min.css 2 https://golhisarim.com.tr/eng/contacts.php
+/.:/img/kullanicifotograflari/2-2023-04-27 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/eng/js/jquery-2.2.4.min.js 3 https://golhisarim.com.tr/eng/contacts.php
+/giris/images/resimsiz.png 1 https://golhisarim.com.tr/giris/profilim.php
+/kullanicijs/kullanicibeklenenresim.js/infobox.js 1 https://golhisarim.com.tr/giris/profilim.php
+/deu/img/tour_plan_2.jpg 10 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/deu/florence-bars-map-listing.html 1 https://www.golhisarim.com.tr/deu/index.html
+/eng/css/bootstrap.min.css 2 https://golhisarim.com.tr/eng/contacts.php
+/deu/img/logo.png 12 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/deu/js/events_map.js 2 https://www.golhisarim.com.tr/deu/sektor.html
+/img/kullanicifotograflari/2-2023-04-27%2020:00:40. 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/undefined 3 https://golhisarim.com.tr/contacts.php
+/index_sso.php 2 -
+/deu/js/switchery.js 2 https://www.golhisarim.com.tr/deu/sektor.html
+/eng/css/custom.css 2 https://golhisarim.com.tr/eng/contacts.php
+/eng/img/logo_login.png 3 https://golhisarim.com.tr/eng/giris.php
+/deu/js/ion.rangeSlider.min.js 2 https://www.golhisarim.com.tr/deu/sektor.html
+/img/bar_list_6.jpg 2 https://golhisarim.com.tr/banka-finans-detail.html
+/eng/img/logo_login_2x.png 2 https://golhisarim.com.tr/eng/giris.php
+/img/kullanicifotograflari/29-2023-04-30%2018:22:09.png 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/giris/css/custom.css 39 https://www.golhisarim.com.tr/giris/sektorekle.php
+/img/kullanicifotograflari/2-2023-04-27%2020:00:41. 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/deu/css/menu.css 36 https://golhisarim.com.tr/deu/contacts.html
+/adminpanel/img/resimsiz.png 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/img/kullanicifotograflari/2-2023-04-27%2020:00:43. 1 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/florence-audio-guides.html 1 https://golhisarim.com.tr/banka-finans-detail.html
+/deu/js/mapmarker.jquery.js 5 https://golhisarim.com.tr/deu/contacts.html
+/giris/css/icon_fonts/css/all_icons.min.css 6 https://golhisarim.com.tr/giris/contacts.php
+/img/events_list_3.jpg 26 https://www.golhisarim.com.tr/banka-finans.html
+/eng/js/mapmarker.jquery.js 1 https://golhisarim.com.tr/eng/contacts.php
+/img/img/kullanicifotograflari/2-2023-04-27%2019:19:47-.png 4 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/PhpMyAdmin/index.php 2 -
+/deu/img/bar_list_6.jpg 10 https://www.golhisarim.com.tr/deu/sektor-detail.html
+/giris/js/modernizr.js 1 https://golhisarim.com.tr/giris/profile.php
+/img/img/kullanicifotograflari/2-2023-04-27%2019:05:07.png 4 https://golhisarim.com.tr/adminpanel/resimdegerlendirme.php
+/giris/img/komagene.jpg 3 https://golhisarim.com.tr/giris/firmalarim.php
+/img/events_list_6.jpg 24 https://www.golhisarim.com.tr/banka-finans.html
+/images/haber2.PNG 1 https://golhisarim.com.tr/index.html
+/deu/img/apple-touch-icon-72x72-precomposed.png 1 https://golhisarim.com.tr/deu/about.html
+/assets/contact.php 2 https://golhisarim.com.tr/eng/contacts.html
+/eng/js/infobox.js 3 https://golhisarim.com.tr/eng/contacts.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 56
+176.42.34.27 5762 27343 4359652981 20230430235415
+195.155.188.36 2955 15051 1736911406 20230415132258
+176.240.103.81 2723 12639 2854983937 20230430213417
+88.230.164.127 326 1960 534560143 20230422135759
+85.96.215.40 57 116 24018648 20230404220514
+31.223.26.119 24 72 8227676 20230403212856
+5.46.106.25 8 37 88889 20230421200157
+78.190.135.243 6 49 8120109 20230426231420
+31.223.84.16 5 51 29501032 20230417155722
+185.11.15.132 2 18 244828 20230429025802
+193.235.141.45 2 2 7803 20230408163325
+35.93.1.198 1 1 3984 20230409011458
+34.220.18.36 1 1 3510 20230418011158
+198.235.24.180 1 1 15051 20230425173326
+35.91.27.121 1 1 3510 20230417010459
+165.154.119.44 1 10 82836 20230421180100
+193.235.141.114 1 1 3513 20230427093054
+54.212.250.211 1 1 3984 20230407010549
+193.235.141.164 1 1 3475 20230416170104
+54.202.169.106 1 1 3513 20230423013200
+162.142.125.225 1 5 10202 20230419215438
+198.235.24.131 1 1 14946 20230414061722
+141.94.59.117 1 1 3451 20230418104328
+193.235.141.160 1 1 3513 20230419082913
+205.210.31.5 1 1 18490 20230411182610
+54.69.68.143 1 1 3984 20230407012411
+87.236.176.158 0 1 1116 
+52.36.140.102 1 1 3513 20230426013023
+193.235.141.146 1 1 3499 20230414003353
+165.154.36.240 1 10 83267 20230405211315
+35.90.236.172 1 1 3984 20230407012524
+34.219.170.44 1 1 3984 20230406012542
+52.27.27.233 1 1 3540 20230429003046
+87.236.176.251 1 1 3513 20230418211221
+193.235.141.147 1 1 3513 20230422001131
+193.235.141.126 1 1 3984 20230411081444
+54.187.11.248 1 1 3513 20230428035728
+34.211.147.48 1 1 3984 20230410010823
+54.213.20.23 1 1 3510 20230418012955
+193.235.141.158 1 1 3984 20230406010628
+35.92.182.26 1 1 3984 20230405010618
+198.235.24.163 1 1 18490 20230408045232
+152.32.240.210 1 10 82836 20230427215257
+198.235.24.159 1 1 18490 20230404050944
+198.235.24.92 1 1 15051 20230421185340
+193.235.141.11 1 1 3513 20230424170408
+198.235.24.243 1 1 15050 20230418094955
+35.93.154.171 1 1 3984 20230408021533
+167.94.138.33 1 5 10673 20230413033431
+34.213.188.116 1 1 3810 20230401011040
+54.68.186.133 1 1 3513 20230423013229
+167.94.138.127 1 4 8628 20230409035402
+35.91.229.192 1 1 3984 20230410161914
+165.154.134.177 1 10 82572 20230418103742
+205.210.31.216 1 1 15152 20230428174508
+193.235.141.152 1 1 3532 20230430024048
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20230401 234 1428 344280216 7
+20230402 475 3062 94760609 5
+20230403 717 3616 241748829 8
+20230404 636 2654 381895741 8
+20230405 4 27 14292008 3
+20230406 5 28 14614747 3
+20230407 18 98 29890706 7
+20230408 7 11 3643846 4
+20230409 3 6 3311654 3
+20230410 2 2 7968 2
+20230411 2 2 22474 2
+20230413 840 4511 702214254 8
+20230414 1282 8164 4018457773 6
+20230415 265 737 830549273 3
+20230416 171 863 1003700064 3
+20230417 269 1235 121408325 6
+20230418 866 4948 1414238230 11
+20230419 1348 5206 605981767 5
+20230420 363 1706 317108165 5
+20230421 179 1069 948691376 5
+20230422 165 930 257338382 3
+20230423 172 631 78385381 4
+20230424 101 453 29593292 4
+20230425 45 155 465650936 3
+20230426 827 3745 519300226 7
+20230427 566 2642 289104828 7
+20230428 581 4377 1976782614 8
+20230429 445 1952 316774236 8
+20230430 1326 2386 390534697 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 10
+5mn-15mn 9
+0s-30s 71
+2mn-5mn 6
+30s-2mn 5
+1h+ 44
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 98
+/css/icon_fonts/font/ElegantIcons.woff 1671 106177040 3 6
+/css/icon_fonts/font/fontello.woff 1456 465630651 0 14
+/giris/guncelle.php 848 2063989 2 1
+/giris/sektorekle.php 577 1143369 0 5
+/adminpanel/kayittables.php 530 2016215 0 4
+/adminpanel/firmadegerlendirme.php 477 1605457 1 3
+/ 446 1021025 116 68
+/giris/profilim.php 445 1259091 1 4
+/giris/profile.php 417 1445145 1 6
+/giris.php 391 704989 8 2
+/adminpanel/kabuledilensektor.php 390 1361512 0 3
+/adminpanel/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 378 29558088 0 2
+/giris/guncellefirma.php 369 934803 0 3
+/giris/resimekle.php 313 555302 1 1
+/kayit.php 312 595498 5 5
+/giris/contacts.php 290 958380 0 2
+/adminpanel/kullaniciguncelleme.php 213 736413 0 1
+/adminpanel/resimdegerlendirme.php 200 675531 0 0
+/adminpanel/kabuledilenresimler.php 197 661986 0 0
+/yemeicme.html 168 570924 0 0
+/adminpanel/panel.php 135 536864 0 1
+/popup.php 126 41762 0 0
+/contacts.php 123 363966 1 3
+/adminpanel/login.php 117 115449 8 0
+/forgotpass.php 112 190421 0 3
+/adminpanel/vendor/fontawesome-free/webfonts/fa-brands-400.woff2 1 76764 0 0
+/giris/get_firma_info.php 1 20 0 0
+/adminpanel/tables.html 5 28015 0 0
+/giris/kullaniciprofilsec.php 1 104 0 0
+/deu/ 43 90087 0 2
+/deu/contacts.php 19 57193 0 0
+/adminpanel/firmaguncelle.php 83 283726 0 0
+/eng/giris/faq.php 6 20306 0 0
+/adminpanel/sil2.php 2 90 0 0
+/deu/giris/contacts.php 12 34629 0 0
+/eng/giris/sektorekle.php 39 72412 0 0
+/adminpanel/degistir.php 19 58319 0 0
+/banka-finans.html 21 46142 1 0
+/adminpanel/sil6.php 40 2768 0 0
+/adminpanel/charts.html 1 3957 0 0
+/giris/yemeicmegiris.html 13 10166 0 0
+/giris/myphpscript.php 13 372 0 0
+/phpmailer/iletisim.php 24 2301 0 1
+/eng/contacts.php 82 230484 0 0
+/eng/ 36 62669 0 3
+/deu/giris/faq.php 2 7146 0 0
+/adminpanel/utilities-border.html 1 3830 0 0
+/giris/yeme-icme.php 14 49313 0 0
+/eng/giris/contacts.php 12 33569 0 0
+/phpmailer/forgotiletisim.php 7 226 0 0
+/giris/about.php 12 44838 0 0
+/adminpanel/ 23 75480 0 0
+/deu/giris/sektorekle.php 41 76856 0 0
+/assets/contact.php 21 1289 0 0
+/adminpanel/404.html 1 3593 0 0
+/about.html 8 15936 1 1
+/deu/giris/profile.php 39 136571 0 1
+/deu/sektor-detail.html 10 28822 0 1
+/profile.php 37 128772 0 1
+/eng/login-register.html 3 4227 0 0
+/adminpanel/firmaprofilyap.php 10 709 0 0
+/giris/firmalarim.php 24 68260 0 0
+/deu/sektor.html 23 65876 0 0
+/sayac.php 2 178 0 0
+/adminpanel/vendor/bootstrap/js/bootstrap.bundle.min.js.map 5 1580905 0 0
+/deu/giris.php 27 46352 0 0
+/adminpanel/firmaprofilkaldir.php 3 216 0 0
+/index.php 19 67190 1 1
+/giris/sektordegistir.php 1 20 0 0
+/giris/yemeicmegiris.php 16 62086 0 0
+/adminpanel/guncelle.php 5 1000 0 0
+/eng/about.html 10 21746 0 0
+/deu/contacts.html 4 11620 0 0
+/deu/giris/about.php 3 8429 0 0
+/giris/faq.php 13 45311 0 0
+/deu/kayit.php 20 39000 0 0
+/deu/faq.html 7 20272 0 0
+/banka-finans-detail.html 5 19800 0 0
+/eng/giris/profile.php 33 112615 0 0
+/deu/login-register.html 10 9504 0 0
+/adminpanel/sil.php 33 1390 0 0
+/contacts.html 47 125048 1 0
+/reset.php 12 22515 0 1
+/login-register.html 2 3141 1 0
+/adminpanel/tables.php 11 53592 0 0
+/adminpanel/blank.html 1 3480 0 0
+/eng/giris.php 53 92125 0 0
+/giris/ 1 1288 0 0
+/yemeicme.php 28 102546 0 1
+/deu/about.html 4 13648 0 0
+/faq.html 22 54562 0 0
+/assets/mail.php 2 0 0 0
+/yeme-icme.php 15 52659 0 1
+/eng/giris/about.php 7 22971 0 0
+/eng/contacts.html 3 8259 0 0
+/adminpanel/login.html 7 6042 0 1
+/eng/faq.html 12 24889 0 0
+/eng/kayit.php 21 38656 0 0
+END_SIDER

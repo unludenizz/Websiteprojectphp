@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/golhisarim/public_html
+group: golhisarim
+hascgi: 1
+homedir: /home/golhisarim
+ip: 45.158.14.34
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@golhisarim.com.tr
+serveralias: mail.golhisarim.com.tr www.golhisarim.com.tr
+servername: golhisarim.com.tr
+ssl: 1
+usecanonicalname: 'Off'
+user: golhisarim
+userdirprotect: ''

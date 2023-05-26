@@ -1,0 +1,634 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202303 will be lost/reset.
+# Last config file used to build this data file was /home/golhisarim/tmp/awstats/awstats.golhisarim.com.tr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2690                
+POS_VISITOR 14557               
+POS_DAY 19544               
+POS_DOMAIN 3381                
+POS_LOGIN 3831                
+POS_ROBOT 3986                
+POS_WORMS 4248                
+POS_EMAILSENDER 4379                
+POS_EMAILRECEIVER 4522                
+POS_SESSION 20147               
+POS_SIDER 20354               
+POS_FILETYPES 4657                
+POS_DOWNLOADS 4876                
+POS_OS 4984                
+POS_BROWSER 5270                
+POS_SCREENSIZE 6711                
+POS_UNKNOWNREFERER 6785                
+POS_UNKNOWNREFERERBROWSER 7487                
+POS_ORIGIN 7930                
+POS_SEREFERRALS 8067                
+POS_PAGEREFS 8230                
+POS_SEARCHWORDS 8378                
+POS_KEYWORDS 8530                
+POS_MISC 2353                
+POS_ERRORS 8589                
+POS_CLUSTER 3687                
+POS_SIDER_404 8703                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230401011038 2 95 10285561569558
+FirstTime 20230308201633
+LastTime 20230331023149
+LastUpdate 20230401030833 2 0 1 0 0
+TotalVisits 127                 
+TotalUnique 123                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 130                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 21 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 15 1559546 0 1 1238
+1 98 678 59542794 27 87 94006
+2 17 130 34368483 4 15 34758
+3 4 7 96484 64 66 81708
+4 6 10 198028 0 0 0
+5 0 0 0 0 0 0
+6 1 1 1036 20 20 24742
+7 1 1 3842 1 4 7524
+8 6 12 278752 3 10 55988
+9 4 6 94379 0 7 6190
+10 1 5 10531 0 2 1150
+11 2 11 84591 1 3 3626
+12 8 9 56286 4 9 11421
+13 4 5 48411 7 10 11142
+14 7 16 4658069 1 11 7428
+15 2 5 4975 1 2 2165
+16 13 28 4154778 0 2 2476
+17 14 50 8413631 1 6 4952
+18 4 13 210441 0 0 0
+19 6 13 142786 0 4 2476
+20 14 23 65527 2 12 12095
+21 3 3 12881 0 0 0
+22 10 81 33713443 1 15 65801
+23 2 5 2259716 0 2 1238
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+us 100 329 53424215
+tr 89 729 43104740
+in 8 8 512
+cn 7 16 280180
+ca 5 14 88677
+gb 4 5 52055
+se 4 4 8315
+hn 3 3 4176
+ua 2 4 91298
+za 2 4 94356
+fr 1 1 3985
+eu 1 2 48811
+it 1 2 48811
+ro 1 2 47178
+kr 1 1 1392
+bg 1 1 0
+nl 1 1 1036
+be 1 1 1299
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+spider 7 7231 20230308202447 0
+curl 4 15384 20230331074556 0
+no_user_agent 3 56393 20230331022717 0
+feed 2 47178 20230314080700 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+woff 45 8495132 0 0
+svg 39 59497 0 0
+png 225 8616024 0 0
+css 172 1369934 0 0
+html 179 359252 0 0
+Unknown 8 512 0 0
+jpg 217 23269131 0 0
+js 242 2453180 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/video/intro.ogv 0 4 8757640
+/video/intro.mp4 0 12 43920734
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+win10 754 115
+androidnougat 1 1
+androidoreo 3 2
+linuxubuntu 1 1
+android10 6 3
+win8 1 1
+winnt 9 1
+Unknown 27 18
+androidlollipop 1 1
+android 65 9
+macosx15 13 12
+winxp 1 1
+macosx 10 5
+ios_iphone 20 11
+linux 227 47
+win7 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 68
+chrome110.0.0.0 8 5
+chrome107.0.1944 1 0
+chrome78.0.3904.108 1 1
+chrome87.0.4280.88 3 2
+safari16.3 7 4
+chrome69.0.1683 1 0
+chrome103.0.0.0 5 1
+chrome106.0.2303 1 1
+chrome76.0.3809.71 36 4
+mozilla 12 4
+firefox103.0 1 1
+firefox41.0 2 2
+chrome92.0.1317 1 0
+chrome76.0.2302 1 0
+chrome108.0.0.0 10 3
+chrome79.0.3945.79 8 2
+chrome109.0.0.0 11 3
+chrome52.0.2799 1 1
+chrome85.0.1070 1 0
+chrome50.0.2801 1 0
+netscape5.0 2 1
+chrome68.0.958 1 1
+chrome100.0.1389 1 1
+chrome107.0.0.0 10 10
+chrome83.0.4103.97 22 22
+chrome105.0.5195.136 6 3
+chrome83.0.1983 1 1
+Unknown 12 12
+chrome102.0.272 1 0
+safari15.1 1 1
+chrome64.0.2658 1 0
+safari16.2 2 1
+firefox33.0 1 1
+chrome52.0.775 1 0
+firefox58.0 1 1
+chrome111.0.0.0 702 76
+firefox69.0 1 1
+chrome27.0.1615.3 2 2
+chrome103.0.5060.114 2 2
+chrome62.0.1267 1 1
+chrome84.0.1154 1 0
+safari16.1 10 5
+chrome68.0.3440.106 126 12
+chrome74.0.1006 1 1
+chrome67.0.2391 1 0
+firefox109.0 1 1
+chrome104.0.0.0 1 1
+chrome95.0.4638.54 1 1
+chrome60.0.3112.107 1 1
+chrome67.0.3396.99 3 1
+chrome78.0.785 1 0
+chrome40.0.2214.93 1 1
+chrome31.0.1650.16 1 1
+chrome30.0.1599.17 1 1
+chrome85.0.2504 1 0
+chrome77.0.2228 1 0
+chrome93.0.597 1 0
+chrome86.0.4240.111 1 1
+chrome83.0.4103.61 2 2
+chrome89.0.17 1 0
+chrome81.0.1754 1 0
+chrome93.0.1252 1 0
+chrome84.0.4147.105 1 1
+chrome76.0.3809.100 1 1
+chrome111.0.5563.64 62 6
+firefox111.0 18 6
+chrome66.0.3359.181 17 17
+chrome95.0.4638.69 2 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+python-requests/2.28.2 20230309113259
+Mozilla/5.0_Firefox/33.0 20230309033759
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230322020018
+Cpanel-HTTP-Client/1.0 20230308201633
+Mozilla/5.0 20230309040814
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230329202747
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230320002230
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-requests/2.28.2 20230309113259
+Cpanel-HTTP-Client/1.0 20230308201633
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230322020018
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 138 172
+From1 0 0
+From2 2 2
+From3 0 0
+From4 92 969
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 3 3687
+404 210 259980
+206 1 18121
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 106
+/test/wp-includes/wlwmanifest.xml 1 -
+//phpunit/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//lib/phpunit/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//site/.env 1 https://www.google.com/
+/2018/wp-includes/wlwmanifest.xml 1 -
+//vendor/phpunit/phpunit/Util/PHP/eval-stdin.php 1 https://www.google.com/
+/feed/ 1 -
+/humans.txt 4 -
+//core/.env 1 https://www.google.com/
+http://golhisarim.com.tr:80/favicon.png 4 -
+//dev/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+/robots.txt 14 -
+//admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+/wp-includes/wlwmanifest.xml 1 -
+//wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+/.local 1 https://www.google.com/
+//api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//web/.env 1 https://www.google.com/
+/images/firma.png 1 http://golhisarim.com.tr/
+//en/.env 1 https://www.google.com/
+//phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+/.remote 1 https://www.google.com/
+/deu/img/pins/Hotels.png 4 http://golhisarim.com.tr/deu/index.html
+/style.css 12 http://golhisarim.com.tr/
+//database/.env 1 https://www.google.com/
+//wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//exapi/.env 1 https://www.google.com/
+/apple-touch-icon-precomposed.png 2 -
+//administrator/.env 1 https://www.google.com/
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/eng/img/pins/Restaurants.png 4 http://golhisarim.com.tr/eng/index.html
+/blog/wp-includes/wlwmanifest.xml 2 -
+//phpunit/phpunit/Util/PHP/eval-stdin.php 1 https://www.google.com/
+/eng/img/pins/Mustsee.png 4 http://golhisarim.com.tr/eng/index.html
+/deu/img/pins/Mustsee.png 4 http://golhisarim.com.tr/deu/index.html
+/favicon.png 4 -
+//lib/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+/sito/wp-includes/wlwmanifest.xml 1 -
+/web/wp-includes/wlwmanifest.xml 2 -
+/wp1/wp-includes/wlwmanifest.xml 1 -
+//cronlab/.env 1 https://www.google.com/
+/website/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/ID3/license.txt 1 -
+/deu/img/pins/Restaurants.png 4 http://golhisarim.com.tr/deu/index.html
+//core/app/.env 1 https://www.google.com/
+//vendor/.env 1 https://www.google.com/
+/eng/img/pins/Bars.png 4 http://golhisarim.com.tr/eng/index.html
+/xmlrpc.php 2 -
+//tools/.env 1 https://www.google.com/
+//sitemaps/.env 1 https://www.google.com/
+/shop/wp-includes/wlwmanifest.xml 1 -
+/css/bootstrap.min.css.map 29 -
+//laravel/.env 1 https://www.google.com/
+//uploads/.env 1 https://www.google.com/
+//backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+/site/wp-includes/wlwmanifest.xml 1 -
+/deu/img/pins/Bars.png 4 http://golhisarim.com.tr/deu/index.html
+//config/.env 1 https://www.google.com/
+//saas/.env 1 https://www.google.com/
+//admin/.env 1 https://www.google.com/
+/video/intro.ogv 1 http://golhisarim.com.tr/
+//psnlink/.env 1 https://www.google.com/
+//vendor/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//lib/.env 1 https://www.google.com/
+/apple-touch-icon-120x120.png 2 -
+/.env 1 https://www.google.com/
+/2019/wp-includes/wlwmanifest.xml 1 -
+/apple-touch-icon.png 2 -
+/ads.txt 5 -
+/florence-must-see-grid.html 1 http://golhisarim.com.tr/index.html
+//vendor/phpunit/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//api/.env 1 https://www.google.com/
+//phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//cron/.env 1 https://www.google.com/
+/.production 1 https://www.google.com/
+/news/wp-includes/wlwmanifest.xml 1 -
+/sitemap.xml 7 -
+//v2/.env 1 https://www.google.com/
+//sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//apps/.env 1 https://www.google.com/
+//lib/phpunit/phpunit/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//app/.env 1 https://www.google.com/
+/eng/img/pins/Hotels.png 4 http://golhisarim.com.tr/eng/index.html
+//new/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//protected/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+/wp2/wp-includes/wlwmanifest.xml 1 -
+//v1/.env 1 https://www.google.com/
+/wp/wp-includes/wlwmanifest.xml 2 -
+//wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//assets/.env 1 https://www.google.com/
+/apple-touch-icon-120x120-precomposed.png 2 -
+//public/.env 1 https://www.google.com/
+/media/wp-includes/wlwmanifest.xml 1 -
+//lab/.env 1 https://www.google.com/
+//www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+/cms/wp-includes/wlwmanifest.xml 1 -
+//old/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+//core/Datavase/.env 1 https://www.google.com/
+//cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 https://www.google.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 130
+195.155.188.36 53 554 20760140 20230331023139
+31.223.84.212 14 57 4195822 20230320223915
+45.158.14.34 8 8 512 20230308201633
+188.119.36.219 4 13 1513294 20230319004120
+54.149.192.56 4 70 11826778 20230325013133
+164.90.241.135 4 9 3751301 20230311161637
+65.154.226.170 4 36 7600071 20230329021514
+70.42.131.189 3 31 7595095 20230329221150
+91.93.229.143 3 33 593114 20230331023149
+65.154.226.167 3 31 7595095 20230329220726
+89.252.132.28 3 5 98214 20230311161542
+31.223.48.247 3 6 2261182 20230308225845
+31.223.26.119 3 37 9044270 20230331022815
+35.86.155.214 3 31 1627214 20230329012926
+170.231.251.235 2 2 1392 20230309143427
+197.242.159.110 2 4 94356 20230311161543
+15.235.12.96 2 2 2784 20230310041312
+216.131.88.4 2 4 94356 20230311161542
+18.117.95.106 2 2 1618 20230311034806
+205.169.39.138 2 5 2260041 20230309174059
+51.75.141.254 2 3 49403 20230311161542
+188.119.23.152 2 5 4975 20230322152209
+106.75.79.120 2 4 92690 20230309130245
+31.223.26.226 2 17 2259090 20230321173729
+205.169.39.137 2 5 2260041 20230309174704
+34.221.95.142 1 1 511 20230323010734
+35.88.239.201 1 1 1392 20230309122325
+34.209.137.38 1 1 1170 20230319014026
+34.220.250.90 1 1 3810 20230331012654
+8.41.221.55 1 1 3858 20230309033759
+169.57.145.21 1 1 6133 20230327214605
+93.158.91.189 1 1 3842 20230329072524
+198.20.189.114 1 1 967 20230313081922
+23.108.51.17 1 2 47178 20230314080638
+54.244.45.11 1 1 967 20230313015033
+44.242.141.80 1 4 2258821 20230310012613
+34.168.6.81 1 1 515 20230316130027
+198.235.24.170 1 1 1036 20230322020018
+191.102.149.109 1 1 1392 20230310094825
+93.158.91.196 1 1 1392 20230309024024
+170.247.221.140 0 1 44953 
+34.222.81.57 1 1 511 20230316010345
+34.220.76.253 1 1 967 20230311012934
+170.247.220.98 0 1 44953 
+106.75.75.21 1 2 46345 20230309140737
+18.208.140.106 1 4 2258821 20230309141937
+34.215.16.212 1 1 3842 20230329011634
+128.90.169.198 1 2 47178 20230314080632
+54.191.80.47 1 1 802 20230317014135
+34.222.160.65 1 4 47157 20230317013514
+162.142.125.216 1 1 1392 20230309170406
+167.248.133.49 1 5 10531 20230329202745
+54.200.12.53 1 1 967 20230313014946
+87.236.176.15 1 1 1299 20230320002230
+135.181.86.190 1 1 1392 20230309113259
+34.220.7.244 1 1 1392 20230311011545
+94.131.77.77 1 1 1392 20230309141327
+34.212.29.39 1 1 831 20230318012308
+35.167.124.143 1 1 1392 20230311011510
+54.200.180.34 1 1 3487 20230328013938
+209.127.111.94 0 1 44953 
+54.218.8.3 1 1 3487 20230328014006
+95.164.157.175 0 1 44953 
+138.199.18.65 1 2 48811 20230309040728
+18.246.71.209 1 1 511 20230323010947
+35.91.48.146 1 9 1441220 20230319014030
+104.255.169.118 1 2 48811 20230309040729
+162.142.125.13 1 5 10531 20230328101857
+35.87.72.113 1 1 1392 20230310012606
+159.8.110.195 1 1 6133 20230327214605
+82.137.77.34 1 1 0 20230309195657
+34.216.22.133 1 1 511 20230323010928
+84.17.42.5 1 2 48811 20230309040728
+34.215.218.87 1 1 5975 20230326015546
+54.188.59.132 1 1 511 20230315012916
+18.237.218.0 1 1 3842 20230329011837
+35.165.126.43 1 1 967 20230314013705
+207.241.231.45 1 1 967 20230314125324
+58.17.6.9 1 1 615 20230308214243
+35.213.191.235 1 1 511 20230322205216
+51.89.230.56 1 1 1392 20230310201930
+51.255.62.8 1 1 3985 20230319024836
+182.219.207.78 1 1 1392 20230309195659
+165.22.248.59 1 1 1036 20230315133345
+54.149.90.100 1 1 3810 20230331012632
+52.39.25.210 1 1 967 20230312011544
+106.75.84.209 1 4 91008 20230318032257
+165.154.119.11 1 10 83199 20230330111840
+199.167.30.184 1 1 967 20230312022628
+130.255.166.142 1 1 1689 20230320093239
+54.187.229.146 1 1 802 20230317013508
+54.213.70.246 1 1 1392 20230309123540
+54.90.209.182 1 4 2258821 20230309141928
+54.187.246.199 1 1 1392 20230309122400
+170.254.179.200 1 1 1392 20230309200252
+54.185.70.143 1 1 967 20230312012038
+170.247.222.66 0 2 89906 
+35.160.139.243 1 1 1299 20230320012044
+35.92.94.87 1 1 967 20230313015321
+35.90.122.75 1 4 4464 20230324013533
+176.240.103.81 1 5 115959 20230317161644
+223.111.175.3 1 3 3177 20230323170424
+34.219.174.10 1 1 967 20230312012359
+198.235.24.22 1 1 2014 20230317121246
+54.212.214.126 1 1 3810 20230331014947
+193.34.75.2 1 1 0 20230313081921
+193.34.75.19 0 1 44953 
+35.90.8.111 1 1 5975 20230325013117
+205.210.31.25 1 1 1036 20230314232804
+35.87.176.166 1 1 3842 20230330011317
+191.102.163.41 1 1 1392 20230310094833
+35.90.239.96 1 1 3842 20230329012920
+190.123.209.70 1 1 1392 20230309143436
+104.248.204.195 0 1 44953 
+3.219.237.5 1 1 1028 20230318193646
+54.212.189.70 1 1 1392 20230309121136
+35.88.253.27 1 1 967 20230312012138
+106.75.126.212 1 2 46345 20230309083820
+51.81.167.146 1 1 1260 20230308203751
+188.166.212.33 1 1 1036 20230315063638
+35.90.73.170 1 1 1392 20230309122041
+34.83.195.11 1 1 515 20230316131156
+35.89.224.35 1 1 967 20230312011844
+35.91.224.37 1 1 511 20230324013529
+35.80.38.61 1 4 4464 20230315012919
+35.160.202.114 1 1 802 20230317014219
+84.247.50.238 1 2 47178 20230314080632
+130.255.166.80 1 1 1392 20230309021133
+212.125.26.235 1 4 2258680 20230308231115
+144.168.218.173 1 1 0 20230310094824
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20230308 15 25 4527225 6
+20230309 31 54 9576553 27
+20230310 8 13 2357079 7
+20230311 17 28 4044188 9
+20230312 6 6 5802 6
+20230313 5 7 93774 5
+20230314 6 9 144504 6
+20230315 4 7 7047 4
+20230316 3 3 1541 3
+20230317 16 43 636093 7
+20230318 6 18 1605007 4
+20230319 7 24 2959669 4
+20230320 4 19 2264365 4
+20230321 2 17 2259090 1
+20230322 4 7 6522 3
+20230323 4 6 4710 4
+20230324 2 5 4975 2
+20230325 5 66 23010001 2
+20230326 1 1 5975 1
+20230327 2 2 12266 2
+20230328 3 7 17505 3
+20230329 17 129 46564409 9
+20230330 2 11 87041 2
+20230331 62 620 49784069 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 3
+30mn-1h 1
+1h+ 1
+2mn-5mn 1
+5mn-15mn 5
+15mn-30mn 1
+0s-30s 115
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 143 267310 114 105
+/css/icon_fonts/font/ElegantIcons.woff 22 1400608 0 3
+/css/icon_fonts/font/fontello.woff 22 7052672 1 4
+/banka-finans.html 15 62250 0 0
+http://golhisarim.com.tr:80/ 11 9319 10 10
+/sektorler.html 5 4534 1 2
+/.well-known/acme-challenge/YVT8EVDO2YN3A509FE705OFDJP-N62BT 1 64 0 0
+/.well-known/acme-challenge/CRM-50_7UOHWOQA5V4M536NA6-TT4RF2 1 64 0 0
+/deu/ 1 3865 0 0
+/login-register.html 1 1693 0 1
+/.well-known/acme-challenge/ELXS_8MQPXBKSQH1MWS-TJSJC2JQR8RK 1 64 0 1
+/banka-finans-detail.html 1 5414 0 0
+/.well-known/acme-challenge/MJJGBX76I_P35P8GN-SOE1PK2LVWGR8J 1 64 0 0
+/.well-known/acme-challenge/AJMYO3P9Y_HWP_898LNP5WABK38O1YOK 1 64 1 0
+/.well-known/acme-challenge/E2EZN7XVW3LOJE1NAL7LZD08RF31XJU6 1 64 0 0
+/newfirma.html 1 1148 0 1
+/eng/ 1 3719 0 0
+/css/icon_fonts/font/icon_set_1.woff 1 41852 0 0
+/.well-known/acme-challenge/U5N983BI273E4RCWMBTCQWRJ53UP6TOH 1 64 0 0
+/.well-known/acme-challenge/WEP78YY1CDW48170WLFEXS77QTLYN4PG 1 64 0 0
+END_SIDER

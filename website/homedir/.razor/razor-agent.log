@@ -1,0 +1,6 @@
+Mar 21 04:55:01.458766 check[41313]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/golhisarim/.razor/razor-agent.log
+Mar 21 04:55:02.054249 check[41313]: [ 3] mail 1 is not known spam.
+Mar 22 04:55:02.855609 check[17104]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/golhisarim/.razor/razor-agent.log
+Mar 22 04:55:04.753274 check[17104]: [ 3] mail 1 is not known spam.
+Mar 24 04:55:04.253357 check[10100]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/golhisarim/.razor/razor-agent.log
+Mar 24 04:55:06.652283 check[10100]: [ 3] mail 1 is not known spam.
